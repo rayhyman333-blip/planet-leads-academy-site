@@ -1,0 +1,102 @@
+/* Planet Leads Academy — shared school design (2026-11-14 redesign).
+   Professional, plain-English, accessible. Neutral base, navy header,
+   gold accent. Mobile-first, stacks cleanly. */
+:root{
+  --navy:#1b2a4a; --navy-dark:#12203a; --gold:#c9a227; --gold-dark:#a9861d;
+  --ink:#222; --muted:#5a5a52; --bg:#f6f6f2; --card:#fff; --line:#e3e1d8;
+  --link:#0b5fff; --radius:14px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;margin:0;
+  background:var(--bg);color:var(--ink);font-size:18px;line-height:1.55}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--link)}
+h1{font-size:34px;line-height:1.15;margin:0 0 12px}
+h2{font-size:26px;line-height:1.2;margin:0 0 12px}
+h3{font-size:21px;margin:0 0 8px}
+p{margin:0 0 14px}
+button,input,select{font-size:18px;min-height:48px;padding:10px 14px;
+  border-radius:8px;border:1px solid #ccc;width:100%;box-sizing:border-box}
+button{background:#111;color:#fff;border:0;cursor:pointer}
+label{display:block;margin:8px 0}
+/* ---- header + nav ---- */
+.site-header{background:var(--navy);color:#fff}
+.site-header .bar{max-width:1080px;margin:0 auto;padding:14px 20px;
+  display:flex;flex-wrap:wrap;align-items:center;gap:6px 22px}
+.brand{color:#fff;text-decoration:none;font-size:24px;font-weight:800;line-height:1.1}
+.brand small{display:block;font-size:14px;font-weight:400;color:#cdd6e4;margin-top:2px}
+.main-nav{display:flex;flex-wrap:wrap;gap:2px 18px;margin-left:auto;align-items:center}
+.main-nav a{color:#e8ecf3;text-decoration:none;font-size:17px;padding:8px 2px}
+.main-nav a:hover{color:#fff;text-decoration:underline}
+.main-nav a.login-btn{background:var(--gold);color:var(--navy-dark);font-weight:700;
+  padding:10px 18px;border-radius:999px}
+.main-nav a.login-btn:hover{text-decoration:none;background:#d9b23a}
+/* ---- content cards ---- */
+body>section,body>header.page-head{max-width:1080px;margin:0 auto 16px;
+  background:var(--card);border-radius:var(--radius);padding:24px 24px}
+body>section:first-of-type{margin-top:16px}
+body>section.hero{padding:0;overflow:hidden}
+.hero img{width:100%;height:auto}
+.hero .hero-text{padding:28px 28px 32px}
+.hero .kicker{color:var(--gold-dark);font-weight:700;letter-spacing:.04em;
+  text-transform:uppercase;font-size:15px;margin-bottom:8px}
+.hero p.lede{font-size:21px;line-height:1.45;color:#333}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;margin-top:18px}
+.cta-row a{display:inline-block;text-decoration:none;font-weight:700;
+  min-height:48px;line-height:48px;padding:0 22px;border-radius:999px}
+.cta-primary{background:var(--navy);color:#fff}
+.cta-gold{background:var(--gold);color:var(--navy-dark)}
+.cta-ghost{border:2px solid var(--navy);color:var(--navy)}
+/* ---- stats / cards / categories ---- */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.stat{background:var(--bg);border:1px solid var(--line);border-radius:12px;
+  padding:18px;text-align:center}
+.stat b{display:block;font-size:32px;color:var(--navy)}
+.stat span{color:var(--muted);font-size:16px}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.card{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff}
+.card img{width:100%;height:170px;object-fit:cover}
+.card .card-body{padding:16px}
+.card h3{margin:0 0 6px}
+.card p{margin:0 0 10px;color:#444}
+.price{font-weight:800;color:var(--navy);font-size:19px}
+.cat-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.cat-card{border:1px solid var(--line);border-radius:12px;overflow:hidden;
+  background:#fff;text-decoration:none;color:var(--ink);display:block}
+.cat-card img{width:100%;height:110px;object-fit:cover}
+.cat-card .cat-body{padding:12px}
+.cat-card h3{font-size:18px;margin:0 0 4px}
+.cat-card p{font-size:16px;color:var(--muted);margin:0}
+.steps{counter-reset:step;list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.steps li{counter-increment:step;padding-left:52px;position:relative;min-height:40px}
+.steps li::before{content:counter(step);position:absolute;left:0;top:0;width:40px;height:40px;
+  border-radius:50%;background:var(--navy);color:#fff;font-weight:800;
+  display:flex;align-items:center;justify-content:center}
+/* ---- course list (catalog keeps its filter ids) ---- */
+.course{border-top:1px solid #eee;padding:16px 0}
+.course:first-of-type{border-top:0}
+.notice{background:#fff8e1;border:1px solid #e6c200;border-radius:12px;padding:16px}
+.alert{background:#fdf0ef;border:1px solid #d98a84;border-radius:12px;padding:16px}
+/* ---- tables ---- */
+table{border-collapse:collapse;width:100%;font-size:17px;margin:0 0 14px}
+th,td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}
+th{background:var(--navy);color:#fff}
+/* ---- footer ---- */
+.site-footer{background:var(--navy-dark);color:#dbe2ef;margin-top:8px}
+.site-footer .foot{max-width:1080px;margin:0 auto;padding:28px 20px}
+.site-footer a{color:#fff}
+.site-footer .foot-nav{display:flex;flex-wrap:wrap;gap:6px 18px;margin:0 0 14px}
+.site-footer p{margin:0 0 10px;font-size:16px}
+.site-footer .fine{color:#9fb0cc}
+/* ---- chat widget area keeps its own stylesheet ---- */
+section[data-pla-chat]{border-top:4px solid var(--gold)}
+@media (max-width:720px){
+  h1{font-size:28px} h2{font-size:23px}
+  body>section,body>header.page-head{padding:18px 16px}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .cards{grid-template-columns:1fr}
+  .cat-grid{grid-template-columns:repeat(2,1fr)}
+  .main-nav{margin-left:0}
+  .hero .hero-text{padding:20px 18px 24px}
+}

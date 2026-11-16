@@ -1,0 +1,14 @@
+/* Planet Leads Academy chat widget — matches the school style:
+   max-width 640px centred, 18px text, #f6f6f2 background, white cards,
+   inputs and buttons at least 48px tall. Guided mode only in this file. */
+.pla-chat { background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+.pla-chat-mode { font-size: 16px; color: #444; }
+.pla-chat-log { border: 1px solid #ddd; border-radius: 8px; padding: 12px; min-height: 160px; max-height: 320px; overflow-y: auto; margin: 12px 0; }
+.pla-chat-msg { margin: 10px 0; }
+.pla-chat-msg b { display: block; }
+.pla-chat-msg-user { text-align: right; }
+.pla-chat-row { display: flex; gap: 8px; }
+.pla-chat-row input { flex: 1; font-size: 18px; min-height: 48px; padding: 10px 14px; border-radius: 8px; border: 1px solid #ccc; }
+.pla-chat-row button { font-size: 18px; min-height: 48px; padding: 10px 14px; border-radius: 8px; border: 0; background: #111; color: #fff; cursor: pointer; }
+.pla-chat-suggest button { font-size: 16px; min-height: 44px; margin: 4px 4px 0 0; padding: 8px 12px; border-radius: 8px; border: 1px solid #ccc; background: #f6f6f2; cursor: pointer; }
+.pla-chat-note { font-size: 16px; color: #444; }

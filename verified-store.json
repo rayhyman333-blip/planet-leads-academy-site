@@ -1,0 +1,458 @@
+{
+  "name": "Cynthia verified answer store",
+  "warning": "Lookup, not a neural model. Not taught. Answers are returned verbatim; a new fact is added only when the owner approves it, by editing this file — never by retraining.",
+  "entry_count": 33,
+  "entries": [
+    {
+      "id": "fact-01",
+      "question": "Who created Cynthia?",
+      "keywords": [
+        "created",
+        "cynthia"
+      ],
+      "canonical_answer": "Cynthia OS, by Planet Leads — created by Ramel Hyman. Planet Leads is a tech and software company that builds systems that make life easier.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-02",
+      "question": "What is Cynthia?",
+      "keywords": [
+        "cynthia",
+        "explain",
+        "describe"
+      ],
+      "canonical_answer": "Cynthia is a plain-English helper that runs a business system. Talk to Cynthia is how an owner talks to her, in a chat, in plain English.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-03",
+      "question": "What does Cynthia show on her first screen?",
+      "keywords": [
+        "cynthia",
+        "doe",
+        "first",
+        "screen",
+        "show"
+      ],
+      "canonical_answer": "One clean first screen: Today's summary, approvals waiting, and urgent alerts. Advanced sections are one tap away, with no technical language on owner screens.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-04",
+      "question": "What does Cynthia watch for a business?",
+      "keywords": [
+        "business",
+        "cynthia",
+        "doe",
+        "watch",
+        "look",
+        "lookout",
+        "track",
+        "monitor"
+      ],
+      "canonical_answer": "Orders, stock, health, and problems. She sends alerts in plain English, including low stock, overdue items, no-shows, held orders, failover, and health problems.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-05",
+      "question": "Does Cynthia act on risky things on her own?",
+      "keywords": [
+        "act",
+        "cynthia",
+        "doe",
+        "own",
+        "risky",
+        "thing"
+      ],
+      "canonical_answer": "No. She drafts work and only acts on risky things after the owner approves that exact action. On technical issues, the admin's manual decision wins.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-06",
+      "question": "How is Cynthia built for each business?",
+      "keywords": [
+        "built",
+        "business",
+        "cynthia",
+        "each"
+      ],
+      "canonical_answer": "One shared Cynthia core is stamped per business, through environment and configuration, not rebuilt each time. Each business gets its own login, dashboard, adapter, and isolated data. No business's data is shared with another business.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-07",
+      "question": "Does Cynthia store cards?",
+      "keywords": [
+        "card",
+        "cynthia",
+        "doe",
+        "store"
+      ],
+      "canonical_answer": "No. Cynthia does not store cards. Payments are handled by the payment provider.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-08",
+      "question": "What is Cynthia's subscription guard?",
+      "keywords": [
+        "cynthia",
+        "guard",
+        "s",
+        "subscription"
+      ],
+      "canonical_answer": "She blocks new paid subscriptions until the admin manually approves that exact subscription, and alerts before renewals. She cannot cancel or refund a Shopify charge on her own; that stays a manual admin step.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-09",
+      "question": "Is Cynthia free to build with?",
+      "keywords": [
+        "build",
+        "cynthia",
+        "free"
+      ],
+      "canonical_answer": "Building is free-only: no pay now, no pay later, no subscription, no trial that converts to paid, and no card-required free tier is added on the owner's behalf. If a needed part cannot be added free, it is built instead, or left out.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-10",
+      "question": "What is Starter Cynthia?",
+      "keywords": [
+        "cynthia",
+        "starter"
+      ],
+      "canonical_answer": "Starter Cynthia is for standard businesses, plus a bridge to the AI the owner already has on their device, with no new AI subscription and no API key. An AI subscription is never a required gate for a standard business.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-11",
+      "question": "What is Enterprise Cynthia?",
+      "keywords": [
+        "cynthia",
+        "enterprise"
+      ],
+      "canonical_answer": "Enterprise Cynthia is a Muse-like multitask AI for big businesses only, with that business's own AI subscription, a hard cap, and a clear stop, so there is no silent overspend.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-12",
+      "question": "Is Cynthia a Muse?",
+      "keywords": [
+        "cynthia",
+        "muse"
+      ],
+      "canonical_answer": "No. Cynthia is not a Muse, and she cannot create, clone, or redirect into a Muse.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-13",
+      "question": "Is Cynthia's huge neural network live yet?",
+      "keywords": [
+        "cynthia",
+        "huge",
+        "live",
+        "network",
+        "neural",
+        "s",
+        "yet"
+      ],
+      "canonical_answer": "No. The huge learned-weight neural network in Cynthia's design law is not live yet. Today's shell is a hand-written core plus adapters plus safety gates. Hand-written rules remain only as safety gates.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-14",
+      "question": "What is Planet Leads Academy?",
+      "keywords": [
+        "academy",
+        "lead",
+        "planet"
+      ],
+      "canonical_answer": "Planet Leads Academy is an online school with 25 courses, each with 8 written lessons, studied at your own pace. Singles are $49.99 or $59.99, the Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription. Refunds are 14-day full, owner-reviewed. It is not accredited, and it does not award degrees. Certificates are only at 8 of 8 lessons on a verified enrollment.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-15",
+      "question": "Who is the instructor for Planet Leads Academy courses?",
+      "keywords": [
+        "academy",
+        "course",
+        "instructor",
+        "lead",
+        "planet",
+        "delivers",
+        "leads",
+        "guides",
+        "teaches"
+      ],
+      "canonical_answer": "Cynthia, Starter Cynthia, by Planet Leads. She is an AI instructor, not a human teacher, and no human credentials, degrees, or accreditation are claimed.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-16",
+      "question": "What is the Academy support email?",
+      "keywords": [
+        "academy",
+        "email",
+        "support"
+      ],
+      "canonical_answer": "Support is planetleads1@gmail.com, for all school help, administration, and questions. Owner and price contact is rayhyman333@gmail.com.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-17",
+      "question": "What is Cynthia's job?",
+      "keywords": [
+        "cynthia",
+        "job",
+        "s"
+      ],
+      "canonical_answer": "Cynthia is a plain-English helper that runs a business system. Talk to Cynthia is how an owner talks to her, in a chat, in plain English.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-18",
+      "question": "How does Cynthia help a business owner?",
+      "keywords": [
+        "business",
+        "cynthia",
+        "doe",
+        "help",
+        "owner"
+      ],
+      "canonical_answer": "Cynthia shows one clean first screen: Today's summary, approvals waiting, and urgent alerts. She watches orders, stock, health, and problems, and sends alerts in plain English. She drafts work and only acts on risky things after the owner approves that exact action. On technical issues, the admin's manual decision wins.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-19",
+      "question": "What can Cynthia do for my business?",
+      "keywords": [
+        "business",
+        "cynthia"
+      ],
+      "canonical_answer": "Cynthia is a plain-English helper that runs a business system. She shows Today summary, approvals waiting, and urgent alerts, watches orders, stock, health, and problems, drafts work, and only acts on risky things after the owner approves that exact action.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-20",
+      "question": "How much do Planet Leads Academy courses cost?",
+      "keywords": [
+        "academy",
+        "cost",
+        "course",
+        "lead",
+        "much",
+        "planet"
+      ],
+      "canonical_answer": "Planet Leads Academy singles are $49.99 or $59.99. The Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-21",
+      "question": "What are Planet Leads Academy bundles?",
+      "keywords": [
+        "academy",
+        "bundle",
+        "lead",
+        "planet"
+      ],
+      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $169.97 and $569.90.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-22",
+      "question": "What is the Planet Leads Academy refund policy?",
+      "keywords": [
+        "academy",
+        "lead",
+        "planet",
+        "policy",
+        "refund"
+      ],
+      "canonical_answer": "Planet Leads Academy refunds are 14-day full, owner-reviewed. Email planetleads1@gmail.com with the course or bundle name, receipt or order id, buyer email, purchase date, amount, and reason. Cynthia does not decide refunds alone.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-23",
+      "question": "Is Planet Leads Academy accredited?",
+      "keywords": [
+        "academy",
+        "accredited",
+        "lead",
+        "planet"
+      ],
+      "canonical_answer": "No. Planet Leads Academy is not accredited, and it does not award degrees or diplomas. Certificates certify course completion only, at 8 of 8 lessons on a verified enrollment.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-24",
+      "question": "How do I enroll in Planet Leads Academy?",
+      "keywords": [
+        "academy",
+        "enroll",
+        "lead",
+        "planet",
+        "sign",
+        "join",
+        "register",
+        "signup"
+      ],
+      "canonical_answer": "Browse the catalog, open a course page, tap its Gumroad link, and pay in full upfront. Enrollment is owner-verified, and the owner confirms your purchase and bundle.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-25",
+      "question": "How many courses and lessons does Planet Leads Academy have?",
+      "keywords": [
+        "academy",
+        "course",
+        "doe",
+        "lead",
+        "lesson",
+        "many",
+        "planet"
+      ],
+      "canonical_answer": "Planet Leads Academy has 25 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49.99 or $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-26",
+      "question": "How does Cynthia work for each business?",
+      "keywords": [
+        "business",
+        "cynthia",
+        "doe",
+        "each",
+        "work"
+      ],
+      "canonical_answer": "One shared Cynthia core is stamped per business, through environment and configuration, not rebuilt each time. Each business gets its own login, dashboard, adapter, and isolated data. No business's data is shared with another business.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-27",
+      "question": "Is Cynthia rebuilt for each business?",
+      "keywords": [
+        "business",
+        "cynthia",
+        "each",
+        "rebuilt"
+      ],
+      "canonical_answer": "No. One shared Cynthia core is stamped per business, through environment and configuration, not rebuilt each time. Each business gets its own login, dashboard, adapter, and isolated data. No business's data is shared with another business.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-28",
+      "question": "What does Cynthia do to help an owner day to day?",
+      "keywords": [
+        "cynthia",
+        "day",
+        "doe",
+        "help",
+        "owner"
+      ],
+      "canonical_answer": "Cynthia shows one clean first screen: Today's summary, approvals waiting, and urgent alerts. She watches orders, stock, health, and problems, and sends alerts in plain English. She drafts work and only acts on risky things after the owner approves that exact action. On technical issues, the admin's manual decision wins.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-29",
+      "question": "How many courses are in the Professional Bundle?",
+      "keywords": [
+        "bundle",
+        "course",
+        "many",
+        "professional"
+      ],
+      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. Singly, those courses cost $169.97.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-30",
+      "question": "How many courses are in the Enterprise Bundle?",
+      "keywords": [
+        "bundle",
+        "course",
+        "enterprise",
+        "many"
+      ],
+      "canonical_answer": "The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $569.90.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-31",
+      "question": "Does a Planet Leads Academy bundle include years of access or extra courses?",
+      "keywords": [
+        "academy",
+        "access",
+        "bundle",
+        "course",
+        "doe",
+        "extra",
+        "include",
+        "lead",
+        "planet",
+        "year"
+      ],
+      "canonical_answer": "No. The Professional Bundle has 3 courses and costs $129.99. The Enterprise Bundle has 10 courses and costs $299.99. There is no 1-year or 2-year access term and no 100-course bundle in the verified bundle list.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-32",
+      "question": "Can Cynthia cancel or refund a Shopify charge on her own?",
+      "keywords": [
+        "cancel",
+        "charge",
+        "cynthia",
+        "own",
+        "refund",
+        "shopify"
+      ],
+      "canonical_answer": "No. She blocks new paid subscriptions until the admin manually approves that exact subscription, and alerts before renewals. She cannot cancel or refund a Shopify charge on her own; that stays a manual admin step.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-33",
+      "question": "Summarize Planet Leads Academy in full.",
+      "keywords": [
+        "academy",
+        "full",
+        "lead",
+        "planet",
+        "summarize"
+      ],
+      "canonical_answer": "Planet Leads Academy is an online school with 25 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49.99 or $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree. Certificates are only at 8 of 8 lessons on a verified enrollment.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>My Courses — Planet Leads Academy</title><link rel="stylesheet" href="school.css"></head><body><header class="site-header"><div class="bar"><a class="brand" href="index.html">Planet Leads Academy 🚀<small>Created by Ramel Hyman, Planet Leads</small></a><nav class="main-nav"><a href="index.html">Home</a><a href="catalog.html">Courses</a><a href="admissions.html">Admissions</a><a href="tuition.html">Tuition</a><a href="bundles.html">Bundles</a><a href="faculty.html">Faculty</a><a href="about.html">About</a><a href="contact.html">Contact</a><a class="login-btn" href="login.html">Student Login</a></nav></div></header><section><h2>My Courses — Student System v2</h2>
+<p><strong>How this works, honestly:</strong> This student system works in <em>this browser</em>. Enter your name, add a course you bought on Gumroad, tick off its 8 lessons as you study, and when all 8 are done you can generate your Certificate of Completion. Progress is saved in this browser only — it is not yet a server record, and it does not verify a Gumroad purchase — that is owner-checked against the Gumroad purchase record. The server version (login, cross-device progress, owner-verified purchase record) is the next step after the Netlify deploy, and is described on the <a href="student-system.html">Student System</a> page.</p>
+<label>Your name (for your certificate): <input id="studentName" placeholder="Your full name"></label>
+<label>Pick a course you bought: <select id="courseSel"><option>Digital Marketing</option><option>Project Management</option><option>Data Analytics</option><option>Leadership Mastery</option><option>Entrepreneurship</option><option>Mobile Development</option><option>Web Development</option><option>JavaScript</option><option>Python</option><option>Music Theory</option><option>Guitar</option><option>Piano</option><option>Russian</option><option>Arabic</option><option>Italian</option><option>German</option><option>Portuguese</option><option>Korean</option><option>Japanese</option><option>Mandarin</option><option>French</option><option>Spanish</option><option>Torah Scholar AI</option><option>Bible Scholar AI</option><option>Islamic Scholar AI</option></select></label>
+<button onclick="addCourse()">Add this course to My Courses</button>
+<div id="list"></div>
+<p><a href="certificate.html">Certificate of Completion →</a> — a certificate is shown only for a course with all 8 lessons complete in this browser.</p>
+<p>Contact: rayhyman333@gmail.com. Support: Talk to Cynthia, with owner review.</p></section><footer class="site-footer"><div class="foot"><nav class="foot-nav"><a href="my-courses.html">My Courses</a><a href="cynthia.html">Talk to Cynthia</a><a href="help.html">Help</a><a href="faq.html">FAQ</a><a href="policies.html">Policies</a><a href="student-system.html">Student System</a><a href="certificate.html">Certificates</a></nav><p>Planet Leads Academy 🚀 — Planet Leads 🚀, created by Ramel Hyman. Support: <a href="mailto:planetleads1@gmail.com">planetleads1@gmail.com</a> · Owner: <a href="mailto:rayhyman333@gmail.com">rayhyman333@gmail.com</a></p><p class="fine">Not accredited. No degrees claimed. Certificates certify completion of 8 written lessons in a course only. No outcome, job, income, or fluency promise is made. Prices in US dollars. Pay in full upfront.</p></div></footer>
+<script>
+const COURSES = ['Digital Marketing', 'Project Management', 'Data Analytics', 'Leadership Mastery', 'Entrepreneurship', 'Mobile Development', 'Web Development', 'JavaScript', 'Python', 'Music Theory', 'Guitar', 'Piano', 'Russian', 'Arabic', 'Italian', 'German', 'Portuguese', 'Korean', 'Japanese', 'Mandarin', 'French', 'Spanish', 'Torah Scholar AI', 'Bible Scholar AI', 'Islamic Scholar AI'];
+let data = JSON.parse(localStorage.getItem('pla_student_v2')||'{"name":"","courses":{}}');
+function save(){ localStorage.setItem('pla_student_v2', JSON.stringify(data)); }
+function render(){
+  document.getElementById('studentName').value = data.name||'';
+  let html='';
+  for (const c of Object.keys(data.courses)) {
+    const done = data.courses[c];
+    html += '<div class="course"><strong>'+c+'</strong> — '+done.filter(Boolean).length+' of 8 lessons complete<br>';
+    for (let i=0;i<8;i++) {
+      html += '<label><input type="checkbox" '+(done[i]?'checked':'')+' onchange="toggleLesson(\''+c.replace(/'/g,"")+'\','+i+',this.checked)"> Lesson '+(i+1)+'</label>';
+    }
+    if (done.filter(Boolean).length>=8) html += '<p><strong>Complete!</strong> <a href="certificate.html?course='+encodeURIComponent(c)+'">Get your Certificate of Completion →</a></p>';
+    html += '</div>';
+  }
+  document.getElementById('list').innerHTML = html || '<p>No courses added yet. Add a course you bought on Gumroad above.</p>';
+}
+function addCourse(){
+  const c=document.getElementById('courseSel').value;
+  if(!data.courses[c]) data.courses[c]=[false,false,false,false,false,false,false,false];
+  save(); render();
+}
+function toggleLesson(c,i,checked){
+  data.courses[c][i]=checked; save(); render();
+}
+document.getElementById('studentName').addEventListener('change', e=>{ data.name=e.target.value; save(); });
+render();
+</script><section><h2>Student Login — server system (live)</h2><p><a href="login.html">Student Login</a> is live: register, sign in, submit a Gumroad purchase for owner verification, track 8 lessons per course across devices, and get a server certificate only at 8 of 8 lessons on a verified enrollment. This page (browser-only progress) remains available for progress saved in this browser only — it does not verify a Gumroad purchase automatically.</p></section><link rel="stylesheet" href="chat-widget.css">
+<section data-pla-chat>
+<h2>Chat with Cynthia — on this site</h2>
+<p class="pla-chat-mode"><strong>Verified-answer mode:</strong> this box answers verified facts verbatim from the verified store (verified-store.json), labelled "Verified answer", and catalog questions from the verified school catalog (knowledge.json). No live AI yet, and it sends nothing anywhere. History is kept in this browser only if you tick the box below.</p>
+<div class="pla-chat-log" aria-live="polite"></div>
+<div class="pla-chat-suggest">
+<button type="button">How much is Python?</button>
+<button type="button">How long is Spanish?</button>
+<button type="button">What is the refund policy?</button>
+<button type="button">How do I enroll?</button>
+<button type="button">What is the support email?</button>
+</div>
+<div class="pla-chat-row"><input class="pla-chat-input" type="text" placeholder="Ask Cynthia in plain English…" aria-label="Ask Cynthia"><button class="pla-chat-send" type="button">Send</button></div>
+<p class="pla-chat-note"><label><input class="pla-chat-keep" type="checkbox"> Keep chat history in this browser only</label> — unticked, history is not saved. Never type a password or card number here. Planet Leads does not store your card.</p>
+</section>
+<script src="verified-lookup.js"></script>
+<script src="chat-widget.js"></script>
+</body></html>
