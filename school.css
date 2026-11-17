@@ -101,3 +101,27 @@ section[data-pla-chat]{border-top:4px solid var(--gold)}
   .main-nav{margin-left:0}
   .hero .hero-text{padding:20px 18px 24px}
 }
+
+/* ---- hologram redesign (2026-11-16): dark hero, iridescent headline,
+   glass stat cards, 3-step cards. Navy + gold stay the school colors. ---- */
+.hero{background:#0d1730;color:#fff;text-align:center}
+.hero img.hero-badge{width:min(200px,52vw);display:block;margin:20px auto 4px}
+.hero img.hero-holo{width:100%;max-width:640px;border-radius:14px;margin:6px auto 18px}
+.hero .kicker{color:var(--gold)}
+.hero h1{font-size:36px}
+.hero h1 .grad{background:linear-gradient(90deg,#22d3ee,#a78bfa,#f472b6,#c9a227);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p.lede{color:#dbe2ef}
+.hero .cta-row{justify-content:center}
+.hero .cta-primary{background:var(--gold);color:var(--navy-dark)}
+.hero .cta-gold{background:#fff;color:var(--navy-dark)}
+.hero .cta-ghost{border-color:#fff;color:#fff}
+.stat{background:rgba(255,255,255,.75)}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.steps li{background:#fff;border:1px solid var(--line);border-radius:12px;
+  padding:14px 14px 14px 56px;min-height:96px}
+.steps li::before{left:12px;top:14px;width:32px;height:32px;font-size:16px}
+@media (max-width:720px){
+  .steps{grid-template-columns:1fr}
+  .hero h1{font-size:30px}
+}
