@@ -38,6 +38,7 @@ body>section,body>header.page-head{max-width:1080px;margin:0 auto 16px;
 body>section:first-of-type{margin-top:16px}
 body>section.hero{padding:0;overflow:hidden}
 .hero img{width:100%;height:auto}
+.hero img.hero-badge{width:min(220px,58vw);display:block;margin:18px auto 2px}
 .hero .hero-text{padding:28px 28px 32px}
 .hero .kicker{color:var(--gold-dark);font-weight:700;letter-spacing:.04em;
   text-transform:uppercase;font-size:15px;margin-bottom:8px}
