@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cynthia MCP Server — Live Demo — Planet Leads Academy</title><link rel="icon" type="image/png" href="images/planet-leads-academy-icon.png"><link rel="apple-touch-icon" href="images/planet-leads-academy-icon.png"><link rel="stylesheet" href="school.css"><style>
+.demo-note{background:#fff8e1;border:1px solid #e6c200;border-radius:12px;padding:16px}
+pre.demo{background:#1b2a4a;color:#e8ecf3;border-radius:12px;padding:18px;overflow-x:auto;white-space:pre-wrap;word-wrap:break-word;font-size:16px;line-height:1.5}
+pre.demo .req{color:#c9a227;font-weight:700}
+.tag{display:inline-block;background:#1b2a4a;color:#fff;border-radius:999px;padding:4px 14px;font-size:15px;font-weight:700;margin-right:8px}
+.tag-gold{background:#c9a227;color:#12203a}
+</style></head><body><header class="site-header"><div class="bar"><a class="brand" href="index.html">Planet Leads Academy 🚀<small>Created by Ramel Hyman, Planet Leads</small></a><nav class="main-nav"><a href="index.html">Home</a><a href="catalog.html">Courses</a><a href="admissions.html">Admissions</a><a href="tuition.html">Tuition</a><a href="bundles.html">Bundles</a><a href="faculty.html">Faculty</a><a href="about.html">About</a><a href="contact.html">Contact</a><a class="login-btn" href="login.html">Student Login</a></nav></div></header><section><h2>Cynthia MCP Server — Live Demo</h2><p><span class="tag">MCP Server</span><span class="tag tag-gold">Verified answers only</span></p><p><strong>Cynthia, by Planet Leads — created by Ramel Hyman.</strong> Cynthia is a plain-English AI assistant that answers only from her verified knowledge. She runs as a public MCP (Model Context Protocol) server: any MCP client can connect to her and call her three tools. This page demonstrates all three tools with real responses captured live from the public endpoint — nothing on this page was typed by hand or made up.</p><p><strong>Live endpoint:</strong> <a href="https://cynthia-mcp-server.onrender.com/mcp">https://cynthia-mcp-server.onrender.com/mcp</a><br><strong>Source code:</strong> <a href="https://github.com/rayhyman333-blip/cynthia-mcp-server">github.com/rayhyman333-blip/cynthia-mcp-server</a><br><strong>Server:</strong> cynthia 1.0.0 · <strong>Protocol:</strong> MCP 2024-11-05</p><div class="demo-note"><p><strong>How this demo works.</strong> Every transcript below is a real request and a real response captured live from the public endpoint on 17 November 2026, using the MCP protocol (initialize, then tools/list, then tools/call). The endpoint does not send a cross-origin (CORS) header, so a web page cannot call it directly from your browser — that is why this page shows captured transcripts instead of a live try-it box. The endpoint itself is public, free, and needs no key: connect it in any MCP client and the same calls return the same answers.</p></div></section><section><h2>The three tools</h2><ul><li><strong>ask_cynthia</strong> — Ask Cynthia a question. She answers ONLY from her verified</li>
+<li><strong>cynthia_capabilities</strong> — Describe what Cynthia can do and the rules she follows</li>
+<li><strong>cynthia_status</strong> — Report the Cynthia MCP server version, the number of verified</li></ul><h3>ask_cynthia</h3>
+<p>Ask Cynthia a question. She answers ONLY from her verified<br>    knowledge, returning the verified answer verbatim labelled<br>    &quot;Verified answer&quot;. If the question is not in her verified knowledge,<br>    she honestly abstains instead of guessing.<br><br>    Args:<br>        question: The question to ask Cynthia, in plain English.<br>    </p>
+<h3>cynthia_capabilities</h3>
+<p>Describe what Cynthia can do and the rules she follows<br>    (verified answers only, owner approval on risky actions,<br>    free-only building, subscription guard, and more).</p>
+<h3>cynthia_status</h3>
+<p>Report the Cynthia MCP server version, the number of verified<br>    facts in her knowledge store, and a health check.</p></section><section><h2>Demo 1 — ask_cynthia answers from verified facts</h2><p><strong>Request:</strong></p><pre class="demo"><span class="req">Request →</span> {&quot;jsonrpc&quot;:&quot;2.0&quot;,&quot;id&quot;:3,&quot;method&quot;:&quot;tools/call&quot;,&quot;params&quot;:{&quot;name&quot;:&quot;ask_cynthia&quot;,&quot;arguments&quot;:{&quot;question&quot;:&quot;Who created Cynthia?&quot;}}}</pre><p><strong>Response (verbatim):</strong></p><pre class="demo">Verified answer:
+Cynthia OS, by Planet Leads — created by Ramel Hyman. Planet Leads is a tech and software company that builds systems that make life easier.</pre><p>The answer is returned verbatim from Cynthia's verified knowledge, labelled "Verified answer".</p></section><section><h2>Demo 2 — ask_cynthia honestly abstains when she does not know</h2><p><strong>Request:</strong></p><pre class="demo"><span class="req">Request →</span> {&quot;jsonrpc&quot;:&quot;2.0&quot;,&quot;id&quot;:4,&quot;method&quot;:&quot;tools/call&quot;,&quot;params&quot;:{&quot;name&quot;:&quot;ask_cynthia&quot;,&quot;arguments&quot;:{&quot;question&quot;:&quot;What will the stock market do tomorrow?&quot;}}}</pre><p><strong>Response (verbatim):</strong></p><pre class="demo">I don&#x27;t know — this isn&#x27;t in my verified knowledge.
+I don&#x27;t have a verified answer for that one yet, so I won&#x27;t guess. Could you say it a different way, or ask about Cynthia, Planet Leads Academy courses, bundles, refunds, or how Cynthia works for a business?</pre><p>Cynthia never guesses, paraphrases, or invents an answer. If a question is not in her verified knowledge, she says so.</p></section><section><h2>Demo 3 — cynthia_capabilities</h2><p><strong>Request:</strong></p><pre class="demo"><span class="req">Request →</span> {&quot;jsonrpc&quot;:&quot;2.0&quot;,&quot;id&quot;:5,&quot;method&quot;:&quot;tools/call&quot;,&quot;params&quot;:{&quot;name&quot;:&quot;cynthia_capabilities&quot;,&quot;arguments&quot;:{}}}</pre><p><strong>Response (verbatim):</strong></p><pre class="demo">Cynthia, by Planet Leads — created by Ramel Hyman.
+
+What Cynthia can do:
+- Answer questions about Cynthia, Planet Leads, and Planet Leads Academy
+  from her verified knowledge only — every answer is returned verbatim
+  from an owner-approved fact, labelled &quot;Verified answer&quot;.
+- Honestly abstain when a question is not in her verified knowledge,
+  instead of guessing or inventing an answer.
+- Explain how she works for a business: one clean first screen (Today
+  summary, approvals waiting, urgent alerts), watching orders, stock,
+  health and problems, and sending alerts in plain English.
+- Explain her rules: she drafts work and only acts on risky things after
+  the owner approves that exact action; on technical issues the admin&#x27;s
+  manual decision wins; building is free-only; she blocks new paid
+  subscriptions until the admin approves that exact subscription; she
+  does not store cards and cannot cancel or refund a Shopify charge.
+- Answer Academy questions: 25 courses, 8 lessons each, $49.99/$59.99
+  singles, Professional Bundle $129.99 (3 courses), Enterprise Bundle
+  $299.99 (10 courses), pay in full upfront on Gumroad, 14-day full
+  refund (owner-reviewed), not accredited, certificates at 8 of 8 lessons.
+
+What Cynthia will not do:
+- She will not guess, paraphrase, or invent an answer. If a question is
+  not in her verified knowledge, she says so.
+- She will not act on risky things without the owner&#x27;s approval of that
+  exact action, and she will not decide refunds alone.
+- She is not a Muse, and she cannot create, clone, or redirect into a Muse.
+</pre></section><section><h2>Demo 4 — cynthia_status</h2><p><strong>Request:</strong></p><pre class="demo"><span class="req">Request →</span> {&quot;jsonrpc&quot;:&quot;2.0&quot;,&quot;id&quot;:6,&quot;method&quot;:&quot;tools/call&quot;,&quot;params&quot;:{&quot;name&quot;:&quot;cynthia_status&quot;,&quot;arguments&quot;:{}}}</pre><p><strong>Response (verbatim):</strong></p><pre class="demo">{
+  &quot;server&quot;: &quot;cynthia&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;verified_facts&quot;: 33,
+  &quot;lookup&quot;: &quot;verified-lookup-v2 (BM25 + Dice, MIN_SCORE 5.5, MIN_MARGIN 0.10)&quot;,
+  &quot;health&quot;: &quot;ok&quot;,
+  &quot;model_calls&quot;: 0,
+  &quot;api_keys_required&quot;: false
+}</pre></section><section><h2>Why verified answers</h2><p>Cynthia's knowledge is a store of 33 owner-approved verified facts. Every answer comes verbatim from one of those facts — never from a model guessing. On held-out test questions she scored 0 inventions: she either gives the verified answer or honestly abstains. A new fact is added only when the owner approves it.</p><p><strong>Server instructions (from the live initialize response):</strong></p><pre class="demo">Cynthia, by Planet Leads — created by Ramel Hyman. Ask her questions with ask_cynthia; she answers only from her verified facts and honestly abstains when she does not know. Use cynthia_capabilities to learn what she can do, and cynthia_status to check the server.</pre></section><section><h2>Connect to Cynthia</h2><p>Add the public endpoint to any MCP client as a remote (Streamable HTTP) server:</p><pre class="demo">{
+  &quot;mcpServers&quot;: {
+    &quot;cynthia&quot;: {
+      &quot;url&quot;: &quot;https://cynthia-mcp-server.onrender.com/mcp&quot;
+    }
+  }
+}</pre><p>No API key, no account, no payment. Free to call.</p><p><a href="https://cynthia-mcp-server.onrender.com/mcp">Live endpoint →</a> | <a href="https://github.com/rayhyman333-blip/cynthia-mcp-server">Source code on GitHub →</a> | <a href="index.html">← Back to Planet Leads Academy</a></p></section><footer class="site-footer"><div class="foot"><nav class="foot-nav"><a href="my-courses.html">My Courses</a><a href="cynthia.html">Talk to Cynthia</a><a href="help.html">Help</a><a href="faq.html">FAQ</a><a href="policies.html">Policies</a><a href="student-system.html">Student System</a><a href="certificate.html">Certificates</a></nav><p>Planet Leads Academy 🚀 — Planet Leads 🚀, created by Ramel Hyman. Support: <a href="mailto:planetleads1@gmail.com">planetleads1@gmail.com</a> · Owner: <a href="mailto:rayhyman333@gmail.com">rayhyman333@gmail.com</a></p><p class="fine">Not accredited. No degrees claimed. Certificates certify completion of 8 written lessons in a course only. No outcome, job, income, or fluency promise is made. Prices in US dollars. Pay in full upfront.</p></div></footer></body></html>
