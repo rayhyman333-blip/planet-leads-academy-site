@@ -58,10 +58,10 @@
 - Enrollment: Catalog → course page → Gumroad link → pay in full upfront,
   no pay-later/installments/subscription → study at own pace → My Courses
   in-browser (v2) until server login is live.
-- Bundles (picks only): Professional 3 courses $129.99 (singly $169.97,
-  saving $39.98); Enterprise 10 courses $299.99 (singly $569.90, saving
-  $269.91). No bundle checkout link is claimed until a real bundle product
-  is created and verified.
+- Bundles: Professional 3 courses $129.99 (singly $167.00,
+  saving $37.01); Enterprise 10 courses $299.99 (singly $560.99, saving
+  $261.00). Both bundles are live on Gumroad — see the Bundles page
+  for checkout links.
 - Certificate: printable at 8/8, browser-recorded until server live.
   Not accredited. Not a degree or diploma.
 - Progress now: My Courses v2, browser only. Server login (Item 1) NOT live.
@@ -148,4 +148,4 @@ fallback wording) stays the same.
 - No chat box on the live site yet (guided box is local only in this task).
 - No live AI chat, no server chat endpoint, no server chat history.
 - No chat box on course/lesson pages yet (cynthia/Home/My Courses only).
-- No bundle checkout link, no server student login (Item 1, local only).
+- No server student login (Item 1, local only). Bundle checkout links are live on the Bundles page.

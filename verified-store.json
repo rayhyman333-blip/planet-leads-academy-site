@@ -275,7 +275,7 @@
         "lead",
         "planet"
       ],
-      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $169.97 and $569.90.",
+      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $167.00 and $560.99.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -389,7 +389,7 @@
         "many",
         "professional"
       ],
-      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. Singly, those courses cost $169.97.",
+      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. Singly, those courses cost $167.00.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -402,7 +402,7 @@
         "enterprise",
         "many"
       ],
-      "canonical_answer": "The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $569.90.",
+      "canonical_answer": "The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $560.99.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
