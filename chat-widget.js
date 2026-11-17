@@ -43,7 +43,7 @@
       return 'I cannot approve or decide a refund. Refunds go to owner review. Refund terms are 14 days from purchase, full refund, same rule everywhere (Gumroad, Shopify Shopper, and Shopify Boutique Dainty). To request one, email support at ' + support + ' with the course or bundle name, receipt or order id, buyer email, purchase date, amount, and reason, and the owner will review the purchase record and decide.';
     }
     if (/(change the price|lower the price|discount|cheaper|negotiate)/.test(q)) {
-      return 'I cannot change a price or offer a discount. Single courses are $49.99 or $59.99, Professional bundle $129.99, Enterprise bundle $299.99. For a price question, email support at ' + support + ' and the owner will review it.';
+      return 'I cannot change a price or offer a discount. Single courses are $49 to $59.99, Professional bundle $129.99, Enterprise bundle $299.99. For a price question, email support at ' + support + ' and the owner will review it.';
     }
     if (/(accredited|accreditation|degree|diploma|university credit)/.test(q)) {
       return 'Planet Leads Academy is not accredited and does not award degrees or diplomas. Certificates of Completion certify completion of the 8 lessons of a course only. Cynthia is an AI instructor, not a human teacher, and does not claim human credentials, degrees, or accreditation.';
@@ -83,7 +83,7 @@
     }
 
     // Catalog answers (course-specific answers already handled above).
-    if (/(price|cost|how much)/.test(q)) return 'Single courses are $49.99 or $59.99. Professional bundle (3 courses) is $129.99 and Enterprise bundle (10 courses) is $299.99. Ask me about a named course for its exact price, or open the Catalog.';
+    if (/(price|cost|how much)/.test(q)) return 'Single courses are $49 to $59.99. Professional bundle (3 courses) is $129.99 and Enterprise bundle (10 courses) is $299.99. Ask me about a named course for its exact price, or open the Catalog.';
     if (/(how long|duration)/.test(q)) return 'Estimated study time, at your own pace with no deadline: Business and Faith courses 6 hours each, Music and Language courses 8 hours each, Programming courses 10 hours each. Each course has 8 lessons. These are estimates, not verified average completion times and not guarantees.';
     if (/(refund)/.test(q)) return 'Refund terms: 14 days from purchase, full refund, same rule everywhere (Gumroad, Shopify Shopper, and Shopify Boutique Dainty). Requests go through the purchase record with owner review. Email support at ' + support + ' with the course or bundle name, receipt or order id, buyer email, purchase date, amount, and reason. Cynthia does not decide refunds alone.';
     if (/(enrol|enroll|buy|sign up|how do i start|get started)/.test(q)) return 'How enrollment works: 1. Browse the Catalog. 2. Open a course page. 3. Tap its Gumroad link. 4. Pay in full upfront on Gumroad — no pay-later, no installments. 5. Study the written lessons at your own pace. 6. Track progress in My Courses in this browser, or ask Talk to Cynthia for help, or email support at ' + support + '.';

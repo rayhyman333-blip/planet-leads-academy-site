@@ -180,7 +180,7 @@
         "lead",
         "planet"
       ],
-      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace. Singles are $49.99 or $59.99, the Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription. Refunds are 14-day full, owner-reviewed. It is not accredited, and it does not award degrees. Certificates are only at 8 of 8 lessons on a verified enrollment.",
+      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace. Singles are $49 to $59.99, the Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription. Refunds are 14-day full, owner-reviewed. It is not accredited, and it does not award degrees. Certificates are only at 8 of 8 lessons on a verified enrollment.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -262,7 +262,7 @@
         "much",
         "planet"
       ],
-      "canonical_answer": "Planet Leads Academy singles are $49.99 or $59.99. The Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription.",
+      "canonical_answer": "Planet Leads Academy singles are $49 to $59.99. The Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -335,7 +335,7 @@
         "many",
         "planet"
       ],
-      "canonical_answer": "Planet Leads Academy has 35 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49.99 or $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree.",
+      "canonical_answer": "Planet Leads Academy has 35 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49 to $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -450,7 +450,7 @@
         "planet",
         "summarize"
       ],
-      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49.99 or $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree. Certificates are only at 8 of 8 lessons on a verified enrollment.",
+      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49 to $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree. Certificates are only at 8 of 8 lessons on a verified enrollment.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     }
