@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Web Development — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/web-development.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: How the Web Works and Your First Page</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-web-development/web-development.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>How the Web Works and Your First Page</title>
+      <description>Lesson 1: How the Web Works and Your First Page When you type an address into a browser, several things happen in a fraction of a second. Your browser sends a request over the internet to a server, the server sends back files, and the browser reads those files and draws a page. The three files at…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-01-how-the-web-works-and-your-first-page.mp3" length="2958373" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Styling with CSS</title>
+      <description>Lesson 2: Styling with CSS CSS, Cascading Style Sheets, controls how HTML looks: colours, fonts, spacing, and layout. Keeping CSS separate from HTML is good practice. HTML says "this is a heading"; CSS says "headings in this section use this font and size". That separation means you can change the…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-02-styling-with-css.mp3" length="2102437" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Layout with Flexbox and Grid</title>
+      <description>Lesson 3: Layout with Flexbox and Grid Early web layout relied on tricks such as tables and floated boxes, which were never designed for page layout and made responsive design painful. Modern CSS gives you two purpose-built tools: Flexbox for arranging items in a row or a column, and Grid for…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-03-layout-with-flexbox-and-grid.mp3" length="1768357" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>JavaScript Basics — Variables, Types, and Decisions</title>
+      <description>Lesson 4: JavaScript Basics — Variables, Types, and Decisions JavaScript adds behaviour to a page: responding to clicks, checking input, updating text, and fetching data. It is a real programming language, so this lesson introduces its core building blocks carefully, because everything later…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-04-javascript-basics-variables-types-and-decisions.mp3" length="1981861" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The DOM — Making Pages Respond</title>
+      <description>Lesson 5: The DOM — Making Pages Respond The Document Object Model, or DOM, is the browser's live representation of your HTML as a tree of objects that JavaScript can read and change. When JavaScript changes the DOM, the page on screen changes without reloading. That is how menus open, messages…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-05-the-dom-making-pages-respond.mp3" length="1928101" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Forms, Input, and Validation</title>
+      <description>Lesson 6: Forms, Input, and Validation Forms are how users send information to a site: sign-ups, contact messages, orders, and searches. A form is built from &lt;form&gt;, labelled controls such as &lt;input&gt;, &lt;textarea&gt;, and &lt;select&gt;, and a submit button. Good forms are usable, accessible, and validated in…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-06-forms-input-and-validation.mp3" length="1879333" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Responsive Design and Accessibility</title>
+      <description>Lesson 7: Responsive Design and Accessibility A responsive page works on a phone, a tablet, and a desktop, not by shrinking a desktop layout until it is unreadable, but by adapting its layout to the space available. Accessibility means the same page works for people using keyboards, screen readers…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-07-responsive-design-and-accessibility.mp3" length="1951717" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Putting It Together — A Finished Project</title>
+      <description>Lesson 8: Putting It Together — A Finished Project This final lesson turns the separate skills into one finished, small website: a three-page portfolio or small-business site with shared styling, working navigation, an interactive element, and a contact form. Working through a complete project…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:web-development:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-web-development/lesson-08-putting-it-together-a-finished-project.mp3" length="2332837" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

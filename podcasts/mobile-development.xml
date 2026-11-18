@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Mobile Development — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/mobile-development.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: How Mobile Apps Work — Platforms, Apps, and What Users Expect</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-mobile-development/mobile-development.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>How Mobile Apps Work — Platforms, Apps, and What Users Expect</title>
+      <description>Lesson 1: How Mobile Apps Work — Platforms, Apps, and What Users Expect A mobile app is software designed to run on a phone or tablet, using the device's screen, touch input, sensors, and connection to the internet. That sounds simple, but it hides important choices. The two major platforms…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-01-how-mobile-apps-work-platforms-apps-and-what-users-expect.mp3" length="1814437" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Planning an App — From Idea to a Buildable Specification</title>
+      <description>Lesson 2: Planning an App — From Idea to a Buildable Specification Good apps start on paper, not in code. Planning turns an idea — "an app for my shop" — into a specification a developer can build, a user can understand, and a tester can check. Skipping this stage feels faster, but it usually leads…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-02-planning-an-app-from-idea-to-a-buildable-specification.mp3" length="2485093" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Designing for Small Screens — Layout, Navigation, and Accessibility</title>
+      <description>Lesson 3: Designing for Small Screens — Layout, Navigation, and Accessibility Designing for a phone is not shrinking a desktop design; it is designing for a different way of using software. People use phones in short bursts, often one-handed, in bright light, on the move, and with interruptions.…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-03-designing-for-small-screens-layout-navigation-and-accessibility.mp3" length="1998181" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Building Your First Screens — Structure, State, and Handling Input</title>
+      <description>Lesson 4: Building Your First Screens — Structure, State, and Handling Input Building an app means turning designs into working screens that respond to users. Modern mobile development, whether native or cross-platform, shares a common structure: the interface is built from reusable components —…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-04-building-your-first-screens-structure-state-and-handling-input.mp3" length="1765477" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Working with Data — Storage, Networks, and Offline Behaviour</title>
+      <description>Lesson 5: Working with Data — Storage, Networks, and Offline Behaviour Most useful apps need data that lives beyond a single screen: saved notes, user accounts, product lists, bookings, or messages. Handling that data well — storing it, fetching it over a network, and coping when the network fails…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-05-working-with-data-storage-networks-and-offline-behaviour.mp3" length="1963237" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Testing, Debugging, and Polishing — Making an App Reliable</title>
+      <description>Lesson 6: Testing, Debugging, and Polishing — Making an App Reliable An app that works on the developer's phone, once, is not finished. Testing is the systematic search for the ways an app breaks in real use, and debugging is the process of finding and fixing the causes. Beginners often treat…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-06-testing-debugging-and-polishing-making-an-app-reliable.mp3" length="2099941" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Releasing an App — Stores, Versions, and Listening to Users</title>
+      <description>Lesson 7: Releasing an App — Stores, Versions, and Listening to Users Releasing an app is more than uploading a file. App stores review submissions, users update at different speeds, and problems found after release must be fixed without breaking the experience for people on older versions.…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-07-releasing-an-app-stores-versions-and-listening-to-users.mp3" length="2015653" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Growing as a Mobile Developer — Maintenance, New Features, and Good Practice</title>
+      <description>Lesson 8: Growing as a Mobile Developer — Maintenance, New Features, and Good Practice Shipping version one is the beginning, not the end, of an app's life. Devices change, platforms update, user needs evolve, and code that is never maintained slowly breaks. Growing as a mobile developer means…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mobile-development:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mobile-development/lesson-08-growing-as-a-mobile-developer-maintenance-new-features-and-good-practi.mp3" length="2092453" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

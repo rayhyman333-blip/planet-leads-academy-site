@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Java Programming — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/java-programming.xml" rel="self" type="application/rss+xml" />
+    <description>Learn Java from zero to real programs, one clear step at a time.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-java-programming/java-programming.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Setting Up Java and Your First Program</title>
+      <description>Learn Java from zero to real programs, one clear step at a time. Lesson 1: Setting Up Java and Your First Program This lesson gets Java running on your computer and teaches you to write, compile, and run your first program. By the end you will know how to check whether Java is already installed…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-01-setting-up-java-and-your-first-program.mp3" length="2915173" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Variables and Types</title>
+      <description>Lesson 2: Variables and Types This lesson teaches you variables: named boxes that store values your program can use and change. By the end you will know the main Java types for whole numbers, decimal numbers, text, single characters, and true-or-false values; you will declare variables, assign…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-02-variables-and-types.mp3" length="2716069" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Making Decisions with Conditionals</title>
+      <description>Lesson 3: Making Decisions with Conditionals This lesson teaches your programs to make decisions: to choose one path when a condition is true and another when it is false. By the end you will write if, else if, and else statements, combine conditions with logical operators, compare values…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-03-making-decisions-with-conditionals.mp3" length="2995429" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Repeating Work with Loops</title>
+      <description>Lesson 4: Repeating Work with Loops This lesson teaches loops: code that repeats a block while a condition holds or for a fixed number of times. By the end you will write for loops and while loops, choose between them, control loops with break and continue, and use loops to process collections of…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-04-repeating-work-with-loops.mp3" length="4027621" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Methods — Reusable Blocks of Code</title>
+      <description>Lesson 5: Methods — Reusable Blocks of Code This lesson teaches you to package code into methods: named, reusable blocks that take inputs and produce outputs. By the end you will define methods with parameters and return values, call them from main and from each other, and understand the difference…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-05-methods-reusable-blocks-of-code.mp3" length="2943589" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Arrays — Working with Many Values</title>
+      <description>Lesson 6: Arrays — Working with Many Values This lesson teaches arrays: ordered collections that hold many values of the same type under one name. By the end you will create arrays, read and change items by position, find the length of an array, loop through arrays with for and enhanced for loops…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-06-arrays-working-with-many-values.mp3" length="2427493" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Classes and Objects</title>
+      <description>Lesson 7: Classes and Objects This lesson teaches classes and objects: the heart of Java. By the end you will define a class with fields and methods, create objects from it with new, use constructors to set starting values, and understand how objects differ from the simple values you have used so…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-07-classes-and-objects.mp3" length="3936229" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Final Project — A Small Book Catalog</title>
+      <description>Lesson 8: Final Project — A Small Book Catalog This final lesson puts the whole course together in one project: a small book catalog program that stores books, lists them, and searches for a title. By the end you will have combined classes, arrays, loops, methods, conditionals, and user input in…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:java-programming:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-java-programming/lesson-08-final-project-a-small-book-catalog.mp3" length="4912701" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

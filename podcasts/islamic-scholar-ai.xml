@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Islamic Scholar AI — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/islamic-scholar-ai.xml" rel="self" type="application/rss+xml" />
+    <description>A structured introduction to Islamic theology, jurisprudence, and Quranic study methods.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/islamic-scholar-ai.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Islamic Scholar AI — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-00-syllabus.mp3" length="1355557" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>How to study Islam — the Quran and Sunnah as sources, a student's approach</title>
+      <description>A structured introduction to Islamic theology, jurisprudence, and Quranic study methods. Lesson 1: How to study Islam — the Quran and Sunnah as sources, a student's approach This lesson teaches you how Muslims approach the study of Islam: what counts as a source, how the sources relate to each…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-01-how-to-study-islam-the-quran-and-sunnah-as-sources-a-student.mp3" length="2018149" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Aqidah — the six articles of faith explained</title>
+      <description>Lesson 2: Aqidah — the six articles of faith explained This lesson teaches the six articles of faith (aqidah) that form the foundation of Islamic theology: belief in God, His angels, His books, His messengers, the Last Day, and divine decree. Muslims consider these the non-negotiable core of the…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-02-aqidah-the-six-articles-of-faith-explained.mp3" length="2233573" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Quran — structure, major themes, reading with understanding</title>
+      <description>Lesson 3: The Quran — structure, major themes, reading with understanding This lesson teaches you the structure of the Quran, its major themes, and practical methods for reading it with understanding rather than just moving your eyes across the page. Muslims regard the Quran as the literal word of…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-03-the-quran-structure-major-themes-reading-with-understanding.mp3" length="2125477" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Seerah — key periods of the Prophet's life and their lessons</title>
+      <description>Lesson 4: The Seerah — key periods of the Prophet's life and their lessons This lesson teaches the key periods of the Prophet Muhammad's life (the Seerah) and the lessons Muslims draw from each. Muslims regard Muhammad as the final prophet and the living embodiment of the Quran's teachings — his…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-04-the-seerah-key-periods-of-the-prophet-s-life-and-their-lesso.mp3" length="2186725" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fiqh essentials — the five pillars in practice</title>
+      <description>Lesson 5: Fiqh essentials — the five pillars in practice This lesson teaches the five pillars of Islam — the core practices that structure a Muslim's religious life — and introduces fiqh, the Islamic science of law, as the framework that explains how these practices are performed. If aqidah (Lesson…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-05-fiqh-essentials-the-five-pillars-in-practice.mp3" length="2328037" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily worship made practical — prayer and fasting guides</title>
+      <description>Lesson 6: Daily worship made practical — prayer and fasting guides This lesson is the most hands-on in the course: a practical guide to the two pillars you will perform most often — the five daily prayers and the Ramadan fast. Read it slowly, practice each step, and use the Daily Worship Checklist…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-06-daily-worship-made-practical-prayer-and-fasting-guides.mp3" length="2237989" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Islamic ethics — character, family, and community</title>
+      <description>Lesson 7: Islamic ethics — character, family, and community This lesson teaches the Islamic framework of ethics: how belief translates into character (akhlaq), and what the tradition asks of Muslims toward family, neighbors, and the wider community. Islam presents worship and ethics as inseparable…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-07-islamic-ethics-character-family-and-community.mp3" length="2329957" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Your study path — building a lifelong learning routine</title>
+      <description>Lesson 8: Your study path — building a lifelong learning routine This final lesson helps you design a personal, sustainable study routine so that what you have learned in this course becomes the beginning of lifelong learning, not its end. Islamic tradition describes seeking knowledge as an…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:islamic-scholar-ai:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-islamic-scholar-ai/lesson-08-your-study-path-building-a-lifelong-learning-routine.mp3" length="2209957" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

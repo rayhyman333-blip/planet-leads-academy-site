@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Portuguese — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/portuguese.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: Sounds, Alphabet, and Greetings</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-portuguese/portuguese.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sounds, Alphabet, and Greetings</title>
+      <description>Lesson 1: Sounds, Alphabet, and Greetings Portuguese spelling is largely regular, but its sounds include nasal vowels and soft consonants that English speakers must practise deliberately. The alphabet has 26 letters, with k, w, and y used mainly in borrowed words. The five vowels — a, e, i, o, u —…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-01-sounds-alphabet-and-greetings.mp3" length="2362021" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ser, Estar, Ter, and Describing Yourself</title>
+      <description>Lesson 2: Ser, Estar, Ter, and Describing Yourself Portuguese has two verbs for "to be," and choosing between them is a core skill. Ser is used for identity, origin, profession, inherent characteristics, time, and material: Eu sou professora (I am a teacher), Ele é brasileiro (He is Brazilian), São…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-02-ser-estar-ter-and-describing-yourself.mp3" length="2730277" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Regular Verbs in the Present Tense</title>
+      <description>Lesson 3: Regular Verbs in the Present Tense Portuguese verbs fall into three conjugations: -ar (falar, to speak), -er (comer, to eat), and -ir (partir, to leave). The present tense covers both "I speak" and "I am speaking" in most everyday use, though estar + gerund (estou falando) marks an action…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-03-regular-verbs-in-the-present-tense.mp3" length="2775013" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Articles, Nouns, and Gender</title>
+      <description>Lesson 4: Articles, Nouns, and Gender Every Portuguese noun has a gender — masculine or feminine — and the article must match it. Learn every new noun with its article: o livro (the book), a caneta (the pen), o estudante, a amiga. Definite articles (the): masculine singular o, feminine singular a…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-04-articles-nouns-and-gender.mp3" length="2733733" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Past Tense — Pretérito Perfeito</title>
+      <description>Lesson 5: The Past Tense — Pretérito Perfeito Portuguese tells completed past actions mainly with the pretérito perfeito, formed with a single word whose endings change by conjugation. For regular -ar verbs, falar gives: eu falei, você/ele/ela falou, nós falamos, vocês/eles/elas falaram. Note that…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-05-the-past-tense-preterito-perfeito.mp3" length="3169765" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Food, Ordering, and Quantities</title>
+      <description>Lesson 6: Food, Ordering, and Quantities Food vocabulary is practical and culturally rich. Key words: o pão (bread), o queijo (cheese), a manteiga (butter), a carne (meat), o peixe (fish), a fruta (fruit), os legumes (vegetables; Brazil also uses verduras), o arroz (rice), o feijão (beans), a…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-06-food-ordering-and-quantities.mp3" length="2797093" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Future, Plans, and the Weather</title>
+      <description>Lesson 7: Future, Plans, and the Weather Portuguese expresses the future in two main ways, and the informal one dominates speech. The most common spoken future uses ir (to go) in the present plus the infinitive: Vou estudar português (I am going to study Portuguese / I will study Portuguese), Vamos…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-07-future-plans-and-the-weather.mp3" length="2712613" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Travel, Directions, and Everyday Conversation</title>
+      <description>Lesson 8: Travel, Directions, and Everyday Conversation Travel Portuguese brings together everything so far: polite requests, numbers, directions, and past and future tenses. Transport words: o trem (train, Brazil) / o comboio (train, Portugal), o ônibus (bus, Brazil) / o autocarro (bus, Portugal)…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:portuguese:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-portuguese/lesson-08-travel-directions-and-everyday-conversation.mp3" length="2276581" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

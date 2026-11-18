@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Drums Foundations — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/drums-foundations.xml" rel="self" type="application/rss+xml" />
+    <description>Build solid rhythm from your very first beat, one steady step at a time.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-drums-foundations/drums-foundations.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Grip, Posture, and Setting Up at the Kit</title>
+      <description>Build solid rhythm from your very first beat, one steady step at a time. Lesson 1: Grip, Posture, and Setting Up at the Kit This lesson teaches you how to hold drumsticks, sit at the kit, and set up your drums so that playing feels natural from the very first beat. Everything later in this course -…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-01-grip-posture-and-setting-up-at-the-kit.mp3" length="2091309" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Reading Simple Drum Notation</title>
+      <description>Lesson 2: Reading Simple Drum Notation This lesson teaches you to read simple drum notation: the staff, the note values, and the symbols for each drum and cymbal. Reading is simply a map - it tells you which drum to hit, when to hit it, and how long to wait before the next hit. You do not need to…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-02-reading-simple-drum-notation.mp3" length="2138725" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Basic Rock Beat</title>
+      <description>Lesson 3: The Basic Rock Beat This lesson teaches you the basic rock beat: the groove that sits underneath a huge share of popular music. The rock beat is built from three parts working together - the hi-hat keeping steady time, the snare landing on beats two and four, and the bass drum anchoring…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-03-the-basic-rock-beat.mp3" length="1714629" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hi-Hat and Snare Patterns</title>
+      <description>Lesson 4: Hi-Hat and Snare Patterns This lesson teaches you to vary the hi-hat and snare beyond the basic beat: eighth-note hi-hats, open and closed hi-hat sounds, rim clicks, and ghost notes. These are the colors that turn a plain groove into something that sounds like a real drummer. By the end…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-04-hi-hat-and-snare-patterns.mp3" length="2141221" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bass Drum Control</title>
+      <description>Lesson 5: Bass Drum Control This lesson teaches you bass drum control: clean single strokes, heel-down and heel-up technique, and double strokes that let the bass drum play faster patterns without losing timing. The bass drum is the foundation of the groove - when it is clean and steady, the whole…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-05-bass-drum-control.mp3" length="2231077" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fills - One-Beat, Two-Beat, and Full-Measure Fills</title>
+      <description>Lesson 6: Fills - One-Beat, Two-Beat, and Full-Measure Fills This lesson teaches you fills: the short bursts of drumming that mark the end of a section and lead the music into the next part. A fill is a small variation, usually played on the toms, that breaks away from the groove for a moment and…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-06-fills-one-beat-two-beat-and-full-measure-fills.mp3" length="2239717" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Playing Along to Songs</title>
+      <description>Lesson 7: Playing Along to Songs This lesson teaches you to play along to songs: listening for the form, finding the tempo, and locking your groove in with the bass line. Playing along is where practice becomes music, because now you are not just keeping time - you are keeping time with other…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-07-playing-along-to-songs.mp3" length="1903509" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Your Practice System + What to Learn Next</title>
+      <description>Lesson 8: Your Practice System + What to Learn Next This lesson builds your permanent practice system and maps out where to go next. What separates drummers who improve from drummers who stall is not talent but the quality and consistency of their practice. This lesson gives you a repeatable…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:drums-foundations:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-drums-foundations/lesson-08-your-practice-system-what-to-learn-next.mp3" length="2081125" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

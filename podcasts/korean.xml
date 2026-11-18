@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Korean — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/korean.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: Hangul, Sounds, and Greetings</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-korean/korean.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Hangul, Sounds, and Greetings</title>
+      <description>Lesson 1: Hangul, Sounds, and Greetings Korean is written in Hangul, an alphabet created in the 15th century that is systematic enough to learn in a focused session, and learning it from the start — rather than relying only on romanisation — pays off in every later lesson. Hangul has 14 basic…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-01-hangul-sounds-and-greetings.mp3" length="2253157" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>입니다, 있어요/없어요, and Describing Yourself</title>
+      <description>Lesson 2: 입니다, 있어요/없어요, and Describing Yourself Korean sentences end with the verb, and the copula (the "to be" verb) changes with politeness level. The formal polite copula is 입니다 (imnida) after a consonant and 입니다 after a vowel as well in modern standard usage for nouns (the older -ㅂ니다…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-02-and-describing-yourself.mp3" length="2789221" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Present Tense Verbs and Word Order</title>
+      <description>Lesson 3: Present Tense Verbs and Word Order Korean verb stems end in a vowel or consonant, and the polite informal present adds -아요/-어요 (or -해요 for 하다 verbs) according to vowel harmony: if the last vowel of the stem is ㅏ or ㅗ, use -아요; otherwise use -어요. Examples: 가다 (gada, to go) → 가요 (gayo), 오다…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-03-present-tense-verbs-and-word-order.mp3" length="1994341" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Numbers, Counters, and Time</title>
+      <description>Lesson 4: Numbers, Counters, and Time Korean has two number systems, and using the wrong one is the most recognisable beginner error. Sino-Korean numbers (from Chinese) are used for money, dates, phone numbers, addresses, and minutes: 일 (il, 1), 이 (i, 2), 삼 (sam, 3), 사 (sa, 4), 오 (o, 5), 육 (yuk…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-04-numbers-counters-and-time.mp3" length="2733733" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Past and Future Tenses</title>
+      <description>Lesson 5: Past and Future Tenses The Korean past tense in the polite informal style adds -았어요/-었어요 (or -했어요 for 하다 verbs) to the stem, following the same vowel harmony as the present: if the last vowel is ㅏ or ㅗ, use -았어요; otherwise use -었어요. Examples: 가다 → 갔어요 (gasseoyo, went), 오다 → 왔어요 (wasseoyo…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-05-past-and-future-tenses.mp3" length="3029797" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Food, Ordering, and Quantities</title>
+      <description>Lesson 6: Food, Ordering, and Quantities Korean food vocabulary is immediately usable, and restaurant language rewards a few polite set phrases. Key words: 밥 (bap, rice/a meal), 김치 (gimchi, kimchi), 고기 (gogi, meat), 생선 (saengseon, fish), 채소 (chaeso, vegetables), 과일 (gwail, fruit), 빵 (ppang, bread)…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-06-food-ordering-and-quantities.mp3" length="2137381" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Future Plans, Modal Expressions, and the Weather</title>
+      <description>Lesson 7: Future Plans, Modal Expressions, and the Weather Korean expresses ability, permission, obligation, and desire with set patterns built on the verb stem, and learning them as patterns — rather than as separate verbs — is the fastest route to useful speech. Ability and possibility use -(으)ㄹ…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-07-future-plans-modal-expressions-and-the-weather.mp3" length="1851251" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Travel, Directions, and Everyday Conversation</title>
+      <description>Lesson 8: Travel, Directions, and Everyday Conversation Travel Korean brings together particles, counters, politeness levels, and past and future tenses. Transport words: 기차 (gicha, train), 버스 (beoseu, bus), 지하철 (jihacheol, underground), 택시 (taeksi, taxi), 비행기 (bihaenggi, plane), 기차역 (gichayeok…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:korean:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-korean/lesson-08-travel-directions-and-everyday-conversation.mp3" length="1770562" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

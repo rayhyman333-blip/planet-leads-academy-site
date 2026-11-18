@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>JavaScript — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/javascript.xml" rel="self" type="application/rss+xml" />
+    <description>Go from your first script to interactive web apps with the DOM, events, and modern JavaScript.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-javascript/javascript.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for JavaScript — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-00-syllabus.mp3" length="1853221" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Setup and Your First Script</title>
+      <description>Go from your first script to interactive web apps with the DOM, events, and modern JavaScript. Lesson 1: Setup and Your First Script This lesson gets you running JavaScript with zero installation, using the browser you already have. By the end you will know how to open the developer console and run…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-01-setup-and-your-first-script.mp3" length="2039845" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Types, Operators, and Conditionals</title>
+      <description>Lesson 2: Types, Operators, and Conditionals This lesson teaches you the building blocks every JavaScript program is made of: the core data types, the operators that combine them, and if/else statements for making decisions. By the end you will know the difference between strings, numbers…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-02-types-operators-and-conditionals.mp3" length="2717989" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Functions, Arrays, and Objects</title>
+      <description>Lesson 3: Functions, Arrays, and Objects This lesson teaches you to organize code into reusable functions and to manage collections of data with arrays and objects. By the end you will define functions with parameters and return values, create and manipulate arrays, model real things with objects…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-03-functions-arrays-and-objects.mp3" length="3095603" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The DOM — Selecting and Changing Page Elements</title>
+      <description>Lesson 4: The DOM — Selecting and Changing Page Elements This lesson teaches you the Document Object Model: JavaScript's live map of the web page, and the tool you use to change what visitors see. By the end you will select elements by id and with CSS-style selectors, read and change their text…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-04-the-dom-selecting-and-changing-page-elements.mp3" length="2172901" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Events — Clicks, Input, and Form Submission</title>
+      <description>Lesson 5: Events — Clicks, Input, and Form Submission This lesson teaches your pages to respond to users through events: the browser's way of announcing that something happened. By the end you will listen for clicks, react to typing as it happens, handle form submissions without reloading the page…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-05-events-clicks-input-and-form-submission.mp3" length="1668709" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Modern JavaScript — Arrows, Templates, and Destructuring</title>
+      <description>Lesson 6: Modern JavaScript — Arrows, Templates, and Destructuring This lesson teaches the modern JavaScript features that make code shorter and clearer: arrow functions, template literals, and destructuring, plus a few companion tools. By the end you will rewrite callbacks as one-line arrows…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-06-modern-javascript-arrows-templates-and-destructuring.mp3" length="2638309" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fetching Data — JSON and the Fetch API</title>
+      <description>Lesson 7: Fetching Data — JSON and the Fetch API This lesson teaches your pages to load data from the web: the skill behind every feed, search result, and live dashboard you have ever used. By the end you will understand JSON as a data format, request it with the Fetch API, handle the asynchronous…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-07-fetching-data-json-and-the-fetch-api.mp3" length="2027557" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Capstone — Interactive To-Do App and Next Steps</title>
+      <description>Lesson 8: Capstone — Interactive To-Do App and Next Steps This final lesson puts the whole course together in one capstone project: a complete interactive to-do app that adds tasks, marks them complete, deletes them, and saves everything in the browser so tasks survive reloads. By the end you will…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:javascript:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-javascript/lesson-08-capstone-interactive-to-do-app-and-next-steps.mp3" length="2778085" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

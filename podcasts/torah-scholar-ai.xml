@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Torah Scholar AI — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/torah-scholar-ai.xml" rel="self" type="application/rss+xml" />
+    <description>This course studies Jewish tradition and texts as they are understood within Jewish scholarship and practice. Beliefs are presented as what Jewish scholars and tradition hold, not as claims made by this course on behalf of all readers. Where a passage is paraphrased, it is labelled as a paraphrase. Verbatim quotations are given only where the wording is certain, with book, chapter, and verse. No new words are presented as Scripture. No sectarian position is presented as the only Jewish position, and differences between movements and scholars are noted where they matter.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-torah-scholar-ai/torah-scholar-ai.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>What Is the Torah, and How Do Jewish Scholars Study It?</title>
+      <description>This course studies Jewish tradition and texts as they are understood within Jewish scholarship and practice. Beliefs are presented as what Jewish scholars and tradition hold, not as claims made by this course on behalf of all readers. Where a passage is paraphrased, it is labelled as a paraphrase.…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-01-what-is-the-torah-and-how-do-jewish-scholars-study-it.mp3" length="2808229" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Genesis, Creation, and the First Human Stories</title>
+      <description>Lesson 2: Genesis, Creation, and the First Human Stories Genesis, called Bereshit in Hebrew, opens with creation and then follows early human stories and the ancestors of Israel: Abraham, Isaac, Jacob, and Joseph, with Sarah, Rebekah, Rachel, Leah, and other figures central to the narratives.…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-02-genesis-creation-and-the-first-human-stories.mp3" length="2014885" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Exodus, Covenant, and the Ten Commandments in Tradition</title>
+      <description>Lesson 3: Exodus, Covenant, and the Ten Commandments in Tradition Exodus, called Shemot in Hebrew, tells the story of Israelite slavery in Egypt, liberation, journey through the wilderness, and covenant at Mount Sinai. Jewish tradition holds that Exodus is central to Jewish identity, because it…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-03-exodus-covenant-and-the-ten-commandments-in-tradition.mp3" length="2396773" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Shabbat, Festivals, and the Rhythm of Jewish Time</title>
+      <description>Lesson 4: Shabbat, Festivals, and the Rhythm of Jewish Time Jewish time, as tradition presents it, is shaped by Shabbat and by festivals that mark seasons, history, and agricultural cycles. Shabbat is the weekly day of rest, from Friday evening to Saturday evening, and Jewish tradition holds that…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-04-shabbat-festivals-and-the-rhythm-of-jewish-time.mp3" length="2159269" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Leviticus, Holiness, and Ethics Between People</title>
+      <description>Lesson 5: Leviticus, Holiness, and Ethics Between People Leviticus, called Vayikra in Hebrew, is often the hardest book for beginners, because much of it is law about sacrifices, purity, and priestly practice in the ancient Temple, rather than narrative. Jewish tradition holds that Leviticus is…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-05-leviticus-holiness-and-ethics-between-people.mp3" length="2282341" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Numbers, Deuteronomy, and the Second Telling</title>
+      <description>Lesson 6: Numbers, Deuteronomy, and the Second Telling Numbers, called Bamidbar in Hebrew, meaning in the wilderness, follows the Israelites through the wilderness, with censuses, journeys, complaints, and laws. Deuteronomy, called Devarim in Hebrew, meaning words, presents itself as Moses speaking…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-06-numbers-deuteronomy-and-the-second-telling.mp3" length="2151013" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Prophets, Writings, and How the Torah Is Read in the Wider Bible</title>
+      <description>Lesson 7: Prophets, Writings, and How the Torah Is Read in the Wider Bible The Torah is the first section of the Hebrew Bible, called Tanakh in Jewish tradition, from the initials of Torah, Nevi'im meaning Prophets, and Ketuvim meaning Writings. Jewish tradition holds that the Torah has a special…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-07-prophets-writings-and-how-the-torah-is-read-in-the-wider-bible.mp3" length="2317669" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Studying with AI Responsibly, and Putting It All Together</title>
+      <description>Lesson 8: Studying with AI Responsibly, and Putting It All Together This final lesson brings the course together by teaching a responsible method for using AI as a study helper for Torah, and by giving you a review task that uses all the skills from Lessons 1 to 7. The central principle, as…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:torah-scholar-ai:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-torah-scholar-ai/lesson-08-studying-with-ai-responsibly-and-putting-it-all-together.mp3" length="2887909" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

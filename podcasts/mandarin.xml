@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Mandarin — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/mandarin.xml" rel="self" type="application/rss+xml" />
+    <description>You will learn vocabulary and grammar step by step, with examples and practice. No fluency promise is made: progress depends on regular study and practice outside these lessons. Mandarin in this course is standard Mandarin as used in mainland China, written with simplified characters and pinyin, the romanisation system that shows pronunciation.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-mandarin/mandarin.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Tones, Pinyin, and Greetings</title>
+      <description>You will learn vocabulary and grammar step by step, with examples and practice. No fluency promise is made: progress depends on regular study and practice outside these lessons. Mandarin in this course is standard Mandarin as used in mainland China, written with simplified characters and pinyin…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-01-tones-pinyin-and-greetings.mp3" length="1870117" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Characters, Numbers 1–10, and Counting</title>
+      <description>Lesson 2: Characters, Numbers 1–10, and Counting Chinese characters are not pictures of whole ideas in the simple sense often claimed. Many characters combine a meaning part and a sound part, and some began as pictures, but the system is a writing system with its own rules. This lesson introduces a…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-02-characters-numbers-1-10-and-counting.mp3" length="1863397" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Shì, Yǒu, De, and Simple Sentences</title>
+      <description>Lesson 3: Shì, Yǒu, De, and Simple Sentences Mandarin word order is generally subject, verb, object, like English, which makes basic sentences easier at first than in some other languages. The challenge is not word order but small words that do specific jobs: shì for identity, yǒu for having and…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-03-sh-y-u-de-and-simple-sentences.mp3" length="2033125" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Verbs, Time Words, and Daily Routine</title>
+      <description>Lesson 4: Verbs, Time Words, and Daily Routine Mandarin verbs do not change for tense or for person. The same verb form is used for I, you, he, she, and they, and time words or context show when something happens. That makes verb learning simpler in one way, but it means you must use time words…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-04-verbs-time-words-and-daily-routine.mp3" length="2254117" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Numbers to 100, Time, Days, and Places</title>
+      <description>Lesson 5: Numbers to 100, Time, Days, and Places Larger numbers in Mandarin are regular, which is good news after the measure-word work in Lesson 2. Once you know 1 to 10 and the words for ten, hundred, and thousand, you can build most numbers by combining them in order. Time and days follow…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-05-numbers-to-100-time-days-and-places.mp3" length="2525413" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Adjectives, Comparisons, and Describing People and Things</title>
+      <description>Lesson 6: Adjectives, Comparisons, and Describing People and Things Mandarin adjectives do not change for gender or number, and they do not need a verb to be in a sentence in the way English adjectives do. The pattern is subject plus adjective, often with hěn before the adjective, not because it…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-06-adjectives-comparisons-and-describing-people-and-things.mp3" length="2289253" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Liking, Wanting, Ability, and Polite Requests</title>
+      <description>Lesson 7: Liking, Wanting, Ability, and Polite Requests Preference and requests in Mandarin use a small set of verbs and patterns that are easy to confuse if you translate word for word from English. This lesson separates liking a thing, wanting a thing, wanting to do something, being able to do…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-07-liking-wanting-ability-and-polite-requests.mp3" length="2126629" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Directions, Travel, and Putting It All Together</title>
+      <description>Lesson 8: Directions, Travel, and Putting It All Together Travel language brings together numbers, places, directions, and polite requests, and it is a good final test of the course because you must use several patterns in one conversation. This lesson teaches directions, transport, and a review…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:mandarin:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-mandarin/lesson-08-directions-travel-and-putting-it-all-together.mp3" length="3576229" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

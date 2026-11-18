@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Data Science Foundations — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/data-science-foundations.xml" rel="self" type="application/rss+xml" />
+    <description>Turn raw data into clear answers, one careful step at a time.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-data-science-foundations/data-science-foundations.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>What Data Science Is</title>
+      <description>Turn raw data into clear answers, one careful step at a time. Lesson 1: What Data Science Is This lesson defines data science in plain terms and shows you how a data project moves from a vague worry to a clear answer. By the end you will be able to explain what data science is, describe the five…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-01-what-data-science-is.mp3" length="2635045" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Working with Data Tables</title>
+      <description>Lesson 2: Working with Data Tables This lesson teaches you to work confidently with data tables: the rows and columns that hold almost all data you will meet. By the end you will read a table correctly, sort and filter it, add calculated columns, and use the core spreadsheet functions for totals…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-02-working-with-data-tables.mp3" length="2708197" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Cleaning Messy Data</title>
+      <description>Lesson 3: Cleaning Messy Data This lesson teaches the least glamorous and most important data skill: cleaning messy data. By the end you will run a repeatable cleaning routine, checking for missing values, fixing inconsistent formats, removing duplicates, and validating your work, on any dataset.…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-03-cleaning-messy-data.mp3" length="2544805" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Describing Data with Summaries</title>
+      <description>Lesson 4: Describing Data with Summaries This lesson teaches descriptive summaries: the handful of numbers that describe a dataset in plain terms. By the end you will compute and interpret the mean, median, and mode, three kinds of average, measure spread with range and standard deviation, and know…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-04-describing-data-with-summaries.mp3" length="2533477" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Charts That Tell the Truth</title>
+      <description>Lesson 5: Charts That Tell the Truth This lesson teaches you to turn numbers into pictures that tell the truth quickly. By the end you will choose the right chart for each question, build clean honest charts in a spreadsheet program, and spot the tricks that make charts misleading, including in…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-05-charts-that-tell-the-truth.mp3" length="2687461" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>An Introduction to Prediction</title>
+      <description>Lesson 6: An Introduction to Prediction This lesson introduces prediction in plain terms: using patterns in past data to make a careful forecast about what might happen next. By the end you will understand what a prediction is and is not, build a simple forecast from a trend, test it by holding…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-06-an-introduction-to-prediction.mp3" length="2732389" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Presenting Your Findings</title>
+      <description>Lesson 7: Presenting Your Findings This lesson teaches you to present findings so other people can understand them and act on them. By the end you will structure a short findings report, write a clear one-page summary, choose a few good charts, and explain limits honestly. Analysis that nobody…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-07-presenting-your-findings.mp3" length="2459941" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>End-to-End Project — From Question to Recommendation</title>
+      <description>Lesson 8: End-to-End Project — From Question to Recommendation This final lesson walks a complete data project from question to recommendation, using every skill in the course, and then maps where your learning goes next. By the end you will see how the pieces connect in a realistic project, know…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-science-foundations:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-science-foundations/lesson-08-end-to-end-project-from-question-to-recommendation.mp3" length="2498341" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

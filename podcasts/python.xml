@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Python Programming — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/python.xml" rel="self" type="application/rss+xml" />
+    <description>Learn Python from your first line of code to building real automation scripts and projects.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-python/python.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Python Programming — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-00-syllabus.mp3" length="1702309" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Setup and Your First Program</title>
+      <description>Learn Python from your first line of code to building real automation scripts and projects. Lesson 1: Setup and Your First Program This lesson gets Python running on your computer and teaches you to run your first program. By the end you will know how to check whether Python is already installed…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-01-setup-and-your-first-program.mp3" length="2391013" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Data Types, Operators, and User Input</title>
+      <description>Lesson 2: Data Types, Operators, and User Input This lesson teaches you the building blocks every Python program is made of: the main data types, the operators that combine them, and how to get input from the person using your program. By the end you will know the difference between strings…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-02-data-types-operators-and-user-input.mp3" length="2637157" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Control Flow — Decisions and Loops</title>
+      <description>Lesson 3: Control Flow — Decisions and Loops This lesson teaches your programs to make decisions and repeat work — the two abilities that turn a calculator into a real program. By the end you will write if/elif/else statements that choose between paths, for loops that repeat a fixed number of times…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-03-control-flow-decisions-and-loops.mp3" length="1950373" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Functions — Reusable Blocks of Code</title>
+      <description>Lesson 4: Functions — Reusable Blocks of Code This lesson teaches you to package code into functions: named, reusable blocks that take inputs and produce outputs. By the end you will define functions with def, pass data in through parameters, send results back with return, and understand the…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-04-functions-reusable-blocks-of-code.mp3" length="2226469" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lists, Dictionaries, Tuples, and Sets</title>
+      <description>Lesson 5: Lists, Dictionaries, Tuples, and Sets This lesson teaches you Python's four core collection types — containers that hold multiple values. By the end you will create and manipulate lists, look up values in dictionaries by key, understand when tuples and sets are the right choice, and loop…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-05-lists-dictionaries-tuples-and-sets.mp3" length="3093541" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Files and Error Handling</title>
+      <description>Lesson 6: Files and Error Handling This lesson teaches your programs to remember things between runs by reading and writing files, and to survive problems gracefully with error handling. By the end you will open, read, and write text files using the with statement; store structured data with JSON…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-06-files-and-error-handling.mp3" length="2875429" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Automation Project — Build a File Organizer</title>
+      <description>Lesson 7: Automation Project — Build a File Organizer This lesson is your first real project: an automation script that organizes a messy folder for you, sorting files into subfolders by type. By the end you will have planned a script before coding it, used the os and shutil modules to inspect and…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-07-automation-project-build-a-file-organizer.mp3" length="3298789" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Capstone — Expense Tracker CLI and Where to Go Next</title>
+      <description>Lesson 8: Capstone — Expense Tracker CLI and Where to Go Next This final lesson puts the whole course together in one capstone project: a command-line expense tracker that adds expenses, lists them, shows totals, and saves everything to a file so nothing is lost when the program closes. By the end…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:python:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-python/lesson-08-capstone-expense-tracker-cli-and-where-to-go-next.mp3" length="1935013" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

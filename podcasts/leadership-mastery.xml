@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Leadership Mastery — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/leadership-mastery.xml" rel="self" type="application/rss+xml" />
+    <description>Lead teams with clarity: communication, decision frameworks, feedback, and delegation.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-leadership-mastery/leadership-mastery.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Leadership Mastery — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-00-syllabus.mp3" length="1513573" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Leadership vs. management — what actually changes when you lead</title>
+      <description>Lead teams with clarity: communication, decision frameworks, feedback, and delegation. Lesson 1: Leadership vs. management — what actually changes when you lead This lesson teaches the practical distinction between management and leadership, so you know which hat you are wearing in any given moment…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-01-leadership-vs-management-what-actually-changes-when-you-lead.mp3" length="2188645" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Communication — being clear, direct, and kind</title>
+      <description>Lesson 2: Communication — being clear, direct, and kind This lesson teaches you to communicate as a leader: how to set expectations so clearly that people rarely have to guess, how to be direct without being harsh, and how to use written communication to prevent most misunderstandings. Almost every…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-02-communication-being-clear-direct-and-kind.mp3" length="2032165" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Team dynamics — roles, trust, and healthy conflict</title>
+      <description>Lesson 3: Team dynamics — roles, trust, and healthy conflict This lesson teaches you how teams actually function beneath the org chart: the informal roles people play, how trust is built and broken, and how to tell the difference between healthy conflict and destructive conflict — and act on it. A…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-03-team-dynamics-roles-trust-and-healthy-conflict.mp3" length="2254693" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Decision frameworks — reversibility, 10-10-10, pros/cons done right</title>
+      <description>Lesson 4: Decision frameworks — reversibility, 10-10-10, pros/cons done right This lesson teaches three decision frameworks that leaders use to make better calls faster: reversibility thinking, the 10-10-10 lens, and a disciplined pros-and-cons analysis. Leaders are judged by their decisions, and…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-04-decision-frameworks-reversibility-10-10-10-pros-cons-done-ri.mp3" length="2351461" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Feedback — giving it well and receiving it without defensiveness</title>
+      <description>Lesson 5: Feedback — giving it well and receiving it without defensiveness This lesson teaches the most leveraged leadership skill of all: feedback. Giving clear, timely, useful feedback — and receiving it gracefully — is what turns a group of individuals into a team that improves. Most leaders…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-05-feedback-giving-it-well-and-receiving-it-without-defensivene.mp3" length="2656357" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Delegation — handing off work without micromanaging</title>
+      <description>Lesson 6: Delegation — handing off work without micromanaging This lesson teaches delegation as a skill: how to hand work to someone else with clear expectations, real ownership, and just enough oversight. Poor delegation is one of the two great failure modes of new leaders (the other is poor…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-06-delegation-handing-off-work-without-micromanaging.mp3" length="2113957" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Difficult conversations and leading through change</title>
+      <description>Lesson 7: Difficult conversations and leading through change This lesson teaches two of the hardest parts of leadership: handling difficult conversations — underperformance, behavioral problems, delivering bad news — and leading a team through change, when uncertainty is high and trust is tested.…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-07-difficult-conversations-and-leading-through-change.mp3" length="2270437" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Your personal leadership plan — habits and 90-day goals</title>
+      <description>Lesson 8: Your personal leadership plan — habits and 90-day goals This final lesson turns everything you have learned into a personal leadership plan: the habits you will practice, the goals you will pursue over the next ninety days, and how you will review your own progress. Courses end…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:leadership-mastery:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-leadership-mastery/lesson-08-your-personal-leadership-plan-habits-and-90-day-goals.mp3" length="2278693" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Entrepreneurship — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/entrepreneurship.xml" rel="self" type="application/rss+xml" />
+    <description>Validate an idea, build the minimum viable product, and win your first paying customers.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-entrepreneurship/entrepreneurship.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Entrepreneurship — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-00-syllabus.mp3" length="1007653" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Idea Validation — Finding a Painful Problem</title>
+      <description>Validate an idea, build the minimum viable product, and win your first paying customers. Lesson 1: Idea Validation — Finding a Painful Problem This lesson teaches you how to find out whether your business idea solves a problem painful enough that strangers will pay to make it go away — before you…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-01-idea-validation-finding-a-painful-problem.mp3" length="2035045" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Business Models — How the Money Actually Flows</title>
+      <description>Lesson 2: Business Models — How the Money Actually Flows This lesson teaches you to choose a business model — the mechanism by which your business actually gets paid — and to map the money flow before you build anything. Beginners obsess over the product and treat the business model as an…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-02-business-models-how-the-money-actually-flows.mp3" length="1958437" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Building the Minimum Viable Product — Lean and Low-Cost</title>
+      <description>Lesson 3: Building the Minimum Viable Product — Lean and Low-Cost This lesson teaches you to build a minimum viable product (MVP): the smallest version of your offer that a real customer can pay for. The MVP is not a rough draft of your dream product — it is a deliberate test: what is the least I…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-03-building-the-minimum-viable-product-lean-and-low-cost.mp3" length="2295781" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pricing — How to Set Prices with Confidence</title>
+      <description>Lesson 4: Pricing — How to Set Prices with Confidence This lesson teaches you to set prices using math and testing instead of fear and guessing. Pricing is where beginners leave the most money on the table: they price too low from insecurity, or copy a competitor without understanding the costs…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-04-pricing-how-to-set-prices-with-confidence.mp3" length="2256037" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Finding Your First Ten Customers</title>
+      <description>Lesson 5: Finding Your First Ten Customers This lesson teaches you to win your first ten customers by hand — through direct outreach, not advertising. Your first ten customers are special: they teach you what to build, give you honest feedback you can learn from, and prove the business works before…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-05-finding-your-first-ten-customers.mp3" length="1958437" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>A Simple Social Media System for a New Business</title>
+      <description>Lesson 6: A Simple Social Media System for a New Business This lesson teaches you a social media routine you can actually sustain: 30–45 minutes a day, built on content that teaches and proves rather than content that begs for attention. Social media is a slow compounder, not a lottery ticket —…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-06-a-simple-social-media-system-for-a-new-business.mp3" length="2169829" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Money Basics — Costs, Break-Even, and Tracking</title>
+      <description>Lesson 7: Money Basics — Costs, Break-Even, and Tracking This lesson teaches you the money basics every founder needs: knowing your costs, calculating your break-even point, and tracking your numbers on one page. You do not need accounting software or a finance background — you need a clear-eyed…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-07-money-basics-costs-break-even-and-tracking.mp3" length="2391013" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Launch Checklist + Your 90-Day Action Plan</title>
+      <description>Lesson 8: Launch Checklist + Your 90-Day Action Plan This final lesson gets you launched: a concrete pre-launch checklist that catches the things beginners forget, and a 90-day action plan that turns this course into a working business. Launch does not mean a big announcement — it means real…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:entrepreneurship:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-entrepreneurship/lesson-08-launch-checklist-your-90-day-action-plan.mp3" length="1925221" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

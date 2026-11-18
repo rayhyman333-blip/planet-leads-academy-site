@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Guitar — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/guitar.xml" rel="self" type="application/rss+xml" />
+    <description>From your first tuned string to strumming full songs with confidence.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-guitar/guitar.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Guitar — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-00-syllabus.mp3" length="848293" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Holding the Guitar, Tuning Up, and Your First Notes</title>
+      <description>From your first tuned string to strumming full songs with confidence. Lesson 1: Holding the Guitar, Tuning Up, and Your First Notes This lesson teaches you how to hold the guitar, tune it, and play your first notes. Everything in this course - chords, strumming, songs - depends on the guitar being…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-01-holding-the-guitar-tuning-up-and-your-first-notes.mp3" length="2026405" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Reading Chord Diagrams - Your First Chords (E Minor, A Major)</title>
+      <description>Lesson 2: Reading Chord Diagrams - Your First Chords (E Minor, A Major) This lesson teaches you to read chord diagrams and play your first two chords: E minor and A major. Chords are the heart of guitar playing - strum a chord and you are already making music that sounds like songs. Reading a…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-02-reading-chord-diagrams-your-first-chords-e-minor-a-major.mp3" length="1880677" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Strumming - Patterns, Rhythm, and Timing</title>
+      <description>Lesson 3: Strumming - Patterns, Rhythm, and Timing This lesson teaches you strumming: how to move your right hand across the strings in steady rhythmic patterns. Chords give you the notes; strumming gives you the groove. A great strum pattern can make two simple chords sound like a real song, while…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-03-strumming-patterns-rhythm-and-timing.mp3" length="2158501" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Essential Open Chords (G, C, D, E Minor, A Minor)</title>
+      <description>Lesson 4: The Essential Open Chords (G, C, D, E Minor, A Minor) This lesson teaches you the five essential open chords: G, C, D, E minor, and A minor. With these five shapes you can play thousands of songs in the keys of G, C, D, and A minor - this is the working vocabulary of the rhythm guitarist.…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-04-the-essential-open-chords-g-c-d-e-minor-a-minor.mp3" length="2170021" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Switching Chords Smoothly + Your First Full Song</title>
+      <description>Lesson 5: Switching Chords Smoothly + Your First Full Song This lesson turns your chords and strumming into your first full song. You will learn the techniques that make chord changes sound smooth - anticipation, pivot fingers, and rhythmic continuity - and then play an original two-part song…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-05-switching-chords-smoothly-your-first-full-song.mp3" length="1994149" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Single Notes - The Minor Pentatonic Scale</title>
+      <description>Lesson 6: Single Notes - The Minor Pentatonic Scale This lesson teaches you single-note playing through the minor pentatonic scale - the five-note scale behind countless melodies and solos in rock, blues, and folk music. Until now every note you played was part of a chord; now your fingers learn to…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-06-single-notes-the-minor-pentatonic-scale.mp3" length="1992421" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Finger Exercises and an Intro to Barre Chords</title>
+      <description>Lesson 7: Finger Exercises and an Intro to Barre Chords This lesson builds finger strength and independence with targeted exercises, then introduces barre chords - the movable shapes that unlock every key on the guitar. Open chords only work in a few keys; a barre chord is a shape you can slide up…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-07-finger-exercises-and-an-intro-to-barre-chords.mp3" length="1886053" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Your Practice Routine + Five Songs to Learn Next</title>
+      <description>Lesson 8: Your Practice Routine + Five Songs to Learn Next This lesson gives you a permanent practice routine and five songs to learn next. You now own the complete beginner toolkit: tuning, open chords, strumming patterns, smooth changes, single-note scales, and the beginnings of barre chords.…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:guitar:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-guitar/lesson-08-your-practice-routine-five-songs-to-learn-next.mp3" length="2153125" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

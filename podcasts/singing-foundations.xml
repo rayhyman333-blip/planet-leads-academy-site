@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Singing Foundations — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/singing-foundations.xml" rel="self" type="application/rss+xml" />
+    <description>Find your voice and sing with confidence, one steady breath at a time.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-singing-foundations/singing-foundations.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Breathing and Posture for Singing</title>
+      <description>Find your voice and sing with confidence, one steady breath at a time. Lesson 1: Breathing and Posture for Singing This lesson teaches you how to breathe and stand for singing. Everything later in this course - holding long notes, singing in tune, shaping clear words - builds directly on the…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-01-breathing-and-posture-for-singing.mp3" length="2249125" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Finding Your Range</title>
+      <description>Lesson 2: Finding Your Range This lesson teaches you to find your vocal range: the span of notes you can sing comfortably, from your lowest easy note to your highest easy note. Knowing your range is practical, not a label - it tells you which songs will sit comfortably for your voice, which notes…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-02-finding-your-range.mp3" length="2023293" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pitch and Ear Training</title>
+      <description>Lesson 3: Pitch and Ear Training This lesson teaches you to match pitch accurately and to hear musical distances - intervals - by ear. Pitch is the foundation of singing in tune: if you can hear a note clearly and reproduce it with your voice, you can sing any melody. Ear training is simply the…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-03-pitch-and-ear-training.mp3" length="2107237" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Warming Up Safely</title>
+      <description>Lesson 4: Warming Up Safely This lesson teaches you to warm up safely: gentle exercises that prepare your voice for singing without strain. A warm-up is not a performance - it is a slow, easy stretch for the voice, like walking before running. Singers who warm up regularly find their voices respond…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-04-warming-up-safely.mp3" length="2080933" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vowels and Diction - Singing Words Clearly</title>
+      <description>Lesson 5: Vowels and Diction - Singing Words Clearly This lesson teaches you to shape vowels and pronounce words clearly while singing. In speech, vowels carry the sound and consonants carry the meaning; in singing, the same is true, but the balance shifts - vowels need to stay open and ringing so…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-05-vowels-and-diction-singing-words-clearly.mp3" length="2314981" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Singing a Simple Song from Start to Finish</title>
+      <description>Lesson 6: Singing a Simple Song from Start to Finish This lesson teaches you to sing a complete song from start to finish: learning it in sections, mapping your breaths, and putting the sections together into a performance you can be proud of. Singing a whole song is a milestone - it is the moment…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-06-singing-a-simple-song-from-start-to-finish.mp3" length="1920645" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Harmony Basics - Singing with Others</title>
+      <description>Lesson 7: Harmony Basics - Singing with Others This lesson teaches you harmony basics: singing a second part above or below a melody while someone else sings the main tune. Harmony is what makes group singing sound rich - two voices moving together, each on its own line, blending into a sound…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-07-harmony-basics-singing-with-others.mp3" length="2151205" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Your Daily Practice Routine + What to Learn Next</title>
+      <description>Lesson 8: Your Daily Practice Routine + What to Learn Next This lesson builds your permanent daily practice routine and maps out where to go next. What separates singers who improve from singers who stall is not talent but the quality and consistency of their practice. This lesson gives you a…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:singing-foundations:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-singing-foundations/lesson-08-your-daily-practice-routine-what-to-learn-next.mp3" length="2087653" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

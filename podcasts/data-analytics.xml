@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Data Analytics — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/data-analytics.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: What Data Analytics Is — Turning Numbers into Decisions</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-data-analytics/data-analytics.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>What Data Analytics Is — Turning Numbers into Decisions</title>
+      <description>Lesson 1: What Data Analytics Is — Turning Numbers into Decisions Data analytics is the practice of examining data to answer a question and support a decision. It is not collecting as many numbers as possible, and it is not producing impressive charts. It is a disciplined way of thinking: start…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-01-what-data-analytics-is-turning-numbers-into-decisions.mp3" length="2146213" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Asking Good Questions and Planning an Analysis</title>
+      <description>Lesson 2: Asking Good Questions and Planning an Analysis A good analysis is decided before a single chart is drawn. The planning step — sometimes called framing — turns a vague worry into a question, a method, and a definition of what a useful answer looks like. Analysts who skip framing often…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-02-asking-good-questions-and-planning-an-analysis.mp3" length="2017957" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Finding, Cleaning, and Preparing Data You Can Trust</title>
+      <description>Lesson 3: Finding, Cleaning, and Preparing Data You Can Trust Analysis is only as good as its data, and real data is almost always messy. Cleaning and preparing data — checking it, fixing errors, and shaping it for analysis — often takes more time than the analysis itself. Beginners sometimes…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-03-finding-cleaning-and-preparing-data-you-can-trust.mp3" length="1931173" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Describing Data — Summaries, Distributions, and What "Average" Hides</title>
+      <description>Lesson 4: Describing Data — Summaries, Distributions, and What "Average" Hides Before hunting for complex patterns, describe your data plainly. Descriptive analysis answers: what does this data look like, what is typical, how much does it vary, and are there unusual values? These simple summaries…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-04-describing-data-summaries-distributions-and-what-average-hides.mp3" length="1999333" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Exploring Patterns — Comparisons, Trends, and Relationships</title>
+      <description>Lesson 5: Exploring Patterns — Comparisons, Trends, and Relationships Once you can describe data, you can explore it: compare groups, follow trends over time, and examine relationships between variables. Exploration is where insights emerge, but it is also where false patterns tempt you. The…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-05-exploring-patterns-comparisons-trends-and-relationships.mp3" length="1942117" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Testing Ideas and Avoiding False Conclusions</title>
+      <description>Lesson 6: Testing Ideas and Avoiding False Conclusions Exploration suggests ideas; testing checks them. You do not need advanced statistics to test an idea well. You need a clear prediction made before you look at the test result, a fair comparison, enough data to judge, and honesty about…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-06-testing-ideas-and-avoiding-false-conclusions.mp3" length="1963621" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Visualising Data and Communicating Findings Honestly</title>
+      <description>Lesson 7: Visualising Data and Communicating Findings Honestly A chart or a report is not decoration for an analysis; it is the analysis made understandable. Decision-makers rarely read raw tables, and they act on what they understand. Good visualisation therefore follows a simple rule: choose the…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-07-visualising-data-and-communicating-findings-honestly.mp3" length="1918117" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Putting It Together — A Complete Analysis and Responsible Practice</title>
+      <description>Lesson 8: Putting It Together — A Complete Analysis and Responsible Practice This final lesson brings the course together into a complete, repeatable analysis workflow, and into the responsibilities that come with working with data. A good analyst is not just technically skilled; they are…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:data-analytics:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-data-analytics/lesson-08-putting-it-together-a-complete-analysis-and-responsible-practice.mp3" length="2038501" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

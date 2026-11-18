@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Project Management — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/project-management.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: What a Project Is — and What Project Management Actually Does</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-project-management/project-management.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>What a Project Is — and What Project Management Actually Does</title>
+      <description>Lesson 1: What a Project Is — and What Project Management Actually Does A project is a temporary piece of work with a clear goal, a start, an end, and limits on time, money, and people. That definition matters because it separates projects from everyday operations. Answering emails is ongoing work…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-01-what-a-project-is-and-what-project-management-actually-does.mp3" length="1946917" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Defining Scope, Goals, and Success Before You Start</title>
+      <description>Lesson 2: Defining Scope, Goals, and Success Before You Start Most project pain is created at the beginning, when nobody quite agrees on what is included, what is excluded, and what success looks like. Scope is the boundary of the project: what you will deliver, and just as importantly, what you…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-02-defining-scope-goals-and-success-before-you-start.mp3" length="1768549" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Planning the Work — Breaking It Down, Sequencing It, and Scheduling It</title>
+      <description>Lesson 3: Planning the Work — Breaking It Down, Sequencing It, and Scheduling It Once scope is agreed, planning turns a big goal into a sequence of small, doable steps. The core technique is breaking work down. Take each deliverable and split it until each piece can be assigned to one person…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-03-planning-the-work-breaking-it-down-sequencing-it-and-scheduling-it.mp3" length="2020261" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>People, Roles, and Communication — The Human Side of Projects</title>
+      <description>Lesson 4: People, Roles, and Communication — The Human Side of Projects Projects are delivered by people, and people need clarity, respect, and timely information. The most common project failure is not a technical problem; it is a human one — someone did not know they were responsible, someone…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-04-people-roles-and-communication-the-human-side-of-projects.mp3" length="1822501" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Budgeting and Resources — Planning Money, Time, and People Honestly</title>
+      <description>Lesson 5: Budgeting and Resources — Planning Money, Time, and People Honestly Every project consumes resources: money, people's time, equipment, and attention. A budget is simply a plan for those resources, stated clearly enough that you can spot when you are drifting. You do not need advanced…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-05-budgeting-and-resources-planning-money-time-and-people-honestly.mp3" length="2035813" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Risk, Issues, and Change — Handling What Goes Wrong Without Panic</title>
+      <description>Lesson 6: Risk, Issues, and Change — Handling What Goes Wrong Without Panic No plan survives contact with reality unchanged. Suppliers are late, stakeholders change their minds, technology fails, key people fall ill, and assumptions turn out wrong. Project management does not promise a problem-free…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-06-risk-issues-and-change-handling-what-goes-wrong-without-panic.mp3" length="2426917" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Monitoring, Quality, and Keeping the Project on Track</title>
+      <description>Lesson 7: Monitoring, Quality, and Keeping the Project on Track A plan is only useful if you check progress against it honestly. Monitoring means comparing what has actually happened with what the plan said should have happened — for scope, schedule, budget, and quality — and acting on the…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-07-monitoring-quality-and-keeping-the-project-on-track.mp3" length="1936165" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Closing, Handover, and Learning — Finishing Well So the Next Project Starts Better</title>
+      <description>Lesson 8: Closing, Handover, and Learning — Finishing Well So the Next Project Starts Better Finishing a project well is a skill in itself, and it is the stage most often rushed. Closing is not just stopping work; it is confirming the goal was delivered, handing it over so it keeps working…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:project-management:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-project-management/lesson-08-closing-handover-and-learning-finishing-well-so-the-next-project-starts-better.mp3" length="2000485" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

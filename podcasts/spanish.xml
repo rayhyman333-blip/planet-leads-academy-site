@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Spanish — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/spanish.xml" rel="self" type="application/rss+xml" />
+    <description>Speak Spanish from day one: pronunciation, core grammar, and real everyday dialogues.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-spanish/spanish.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Spanish — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-00-syllabus.mp3" length="967333" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pronunciation — The Five Vowels, Tricky Consonants, and Word Stress</title>
+      <description>Speak Spanish from day one: pronunciation, core grammar, and real everyday dialogues. Lesson 1: Pronunciation — The Five Vowels, Tricky Consonants, and Word Stress This lesson teaches you to pronounce Spanish clearly from the start. Spanish pronunciation is one of the most consistent in the world…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-01-pronunciation-the-five-vowels-tricky-consonants-and-word-str.mp3" length="2487013" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Greetings, Introductions, and Survival Phrases</title>
+      <description>Lesson 2: Greetings, Introductions, and Survival Phrases This lesson gives you your first real social toolkit: greeting people politely, introducing yourself, and surviving conversations when you do not understand something. These phrases are the highest-value sentences in the language because they…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-02-greetings-introductions-and-survival-phrases.mp3" length="2496613" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ser vs. Estar and the Present Tense</title>
+      <description>Lesson 3: Ser vs. Estar and the Present Tense This lesson tackles the two most important verbs in Spanish — ser and estar, both meaning 'to be' — plus the present tense, which lets you describe what you do every day. English uses one 'to be' for everything; Spanish splits the job in two, and mixing…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-03-ser-vs-estar-and-the-present-tense.mp3" length="2595493" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Numbers, Time, Days — The Everyday Vocabulary Core</title>
+      <description>Lesson 4: Numbers, Time, Days — The Everyday Vocabulary Core This lesson builds your everyday number vocabulary: counting, telling time, and using days, months, and dates. Numbers are pure utility — prices, phone numbers, addresses, schedules — and telling the time unlocks appointments, opening…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-04-numbers-time-days-the-everyday-vocabulary-core.mp3" length="2669989" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Asking Questions — Directions, Shopping, and Small-Talk Dialogues</title>
+      <description>Lesson 5: Asking Questions — Directions, Shopping, and Small-Talk Dialogues This lesson turns you into someone who can get answers: how to form every kind of question, ask for directions, handle a full shopping conversation, and keep small talk going. Up to now you have mostly made statements…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-05-asking-questions-directions-shopping-and-small-talk-dialogue.mp3" length="2252965" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Talking About the Past — The Preterite Tense</title>
+      <description>Lesson 6: Talking About the Past — The Preterite Tense This lesson gives you the past tense — the preterite — so you can say what you did, where you went, and what happened. Without a past tense you are stuck in the eternal present; with it, you can tell stories, explain your day, and answer the…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-06-talking-about-the-past-the-preterite-tense.mp3" length="2293285" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Making Plans — Future Expressions + Restaurant and Travel Dialogues</title>
+      <description>Lesson 7: Making Plans — Future Expressions + Restaurant and Travel Dialogues This lesson teaches you to talk about the future — making plans, accepting invitations, and handling two of the most useful real-world conversations: ordering in a restaurant and navigating travel. Future talk is what…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-07-making-plans-future-expressions-restaurant-and-travel-dialog.mp3" length="2426725" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Conversation Practice Drills + Your 30-Day Fluency Plan</title>
+      <description>Lesson 8: Conversation Practice Drills + Your 30-Day Fluency Plan This final lesson does two things: it gives you structured conversation drills that combine everything from Lessons 1–7, and it hands you a concrete 30-day plan so your Spanish keeps growing after the course ends. A course can teach…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:spanish:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-spanish/lesson-08-conversation-practice-drills-your-30-day-fluency-plan.mp3" length="2158885" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

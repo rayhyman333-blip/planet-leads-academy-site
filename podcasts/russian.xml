@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Russian — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/russian.xml" rel="self" type="application/rss+xml" />
+    <description>Russian words are given in Cyrillic with a pronunciation guide; pronunciation guides are approximate and listening to native speakers is the best check.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-russian/russian.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Cyrillic Alphabet and Sounds</title>
+      <description>Russian words are given in Cyrillic with a pronunciation guide; pronunciation guides are approximate and listening to native speakers is the best check. Lesson 1: The Cyrillic Alphabet and Sounds Russian is written in the Cyrillic alphabet, which has 33 letters. It looks unfamiliar at first, but it…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-01-the-cyrillic-alphabet-and-sounds.mp3" length="2201317" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Greetings, Introductions, and Being Polite</title>
+      <description>Lesson 2: Greetings, Introductions, and Being Polite Russian greetings change with the time of day and with formality, and getting this right matters socially. The neutral, polite greeting for most of the day is Здравствуйте (zdravstvuyte, "hello", formal). It is long, but it is the single most…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-02-greetings-introductions-and-being-polite.mp3" length="2926628" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nouns, Gender, and Plurals</title>
+      <description>Lesson 3: Nouns, Gender, and Plurals Every Russian noun has a gender: masculine, feminine, or neuter. Gender is grammatical, not a statement about the real world — a table is masculine, a book is feminine — and it matters because adjectives, pronouns, and some verb forms must agree with the noun's…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-03-nouns-gender-and-plurals.mp3" length="2294245" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Present-Tense Verbs</title>
+      <description>Lesson 4: Present-Tense Verbs Russian verbs change their endings according to who is doing the action, and the present tense has two main conjugation patterns. Learning the pattern, rather than memorising each verb separately, lets you conjugate hundreds of verbs once you know their infinitive…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-04-present-tense-verbs.mp3" length="2466477" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Adjectives, Possessives, and Agreement</title>
+      <description>Lesson 5: Adjectives, Possessives, and Agreement Russian adjectives agree with the noun they describe in gender, number, and case. That means the same adjective has different endings depending on the noun, and learning the pattern once lets you describe any noun correctly. In the nominative case…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-05-adjectives-possessives-and-agreement.mp3" length="2409123" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Past Tense and Everyday Cases</title>
+      <description>Lesson 6: Past Tense and Everyday Cases Russian past tense is simpler than English past tense in one respect: it is formed from the infinitive, and it agrees with the subject's gender and number rather than with person. Remove the infinitive ending -ть and add -л for masculine, -ла for feminine…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-06-past-tense-and-everyday-cases.mp3" length="2203946" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Numbers, Time, and Days</title>
+      <description>Lesson 7: Numbers, Time, and Days Russian numbers are essential for prices, times, ages, and addresses, and they interact with nouns in ways that surprise English speakers. The numbers 1 to 10 are: один (odin, 1), два (dva, 2), три (tri, 3), четыре (chetyre, 4), пять (pyat', 5), шесть (shest', 6)…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-07-numbers-time-and-days.mp3" length="1595123" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Everyday Conversation — Shops, Travel, and Putting It Together</title>
+      <description>Lesson 8: Everyday Conversation — Shops, Travel, and Putting It Together This final lesson combines everything so far into the conversations a visitor actually has: buying something, asking directions, ordering food, and handling problems politely. The grammar is not new; the skill is choosing the…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:russian:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-russian/lesson-08-everyday-conversation-shops-travel-and-putting-it-together.mp3" length="1994049" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

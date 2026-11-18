@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Music Theory — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/music-theory.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: Notes, Pitch, and the Staff</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-music-theory/music-theory.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Notes, Pitch, and the Staff</title>
+      <description>Lesson 1: Notes, Pitch, and the Staff Music theory begins with a simple question: how do we write down a sound so that someone else can reproduce it? Pitch is how high or low a sound feels. A note is a written symbol for a pitch of a particular length. The staff is the set of five horizontal lines…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-01-notes-pitch-and-the-staff.mp3" length="1801957" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rhythm, Beat, and Metre</title>
+      <description>Lesson 2: Rhythm, Beat, and Metre If pitch answers "which note?", rhythm answers "when, and for how long?" Music moves in time, and rhythm is the organisation of sounds in time. The beat is the steady pulse you would tap your foot to. Most music you hear has a regular beat, and rhythm is built by…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-02-rhythm-beat-and-metre.mp3" length="1841893" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Major Scales and Key Signatures</title>
+      <description>Lesson 3: Major Scales and Key Signatures A scale is an ordered set of pitches, usually spanning an octave, that gives a piece its raw material. The major scale is the most familiar: sing "do, re, mi, fa, sol, la, ti, do" and you have sung a major scale. Its pattern of steps, measured in tones…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-03-major-scales-and-key-signatures.mp3" length="1980901" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Minor Scales and Modes</title>
+      <description>Lesson 4: Minor Scales and Modes Minor scales sound darker or sadder than major scales to many listeners, but the difference is structural, not merely emotional: the pattern of tones and semitones is different. The natural minor scale follows the pattern tone, semitone, tone, tone, semitone, tone…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-04-minor-scales-and-modes.mp3" length="2206693" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Intervals</title>
+      <description>Lesson 5: Intervals An interval is the distance between two pitches, and it is the basic unit for describing melody and harmony. Intervals have two parts: a number, counting the letter names from the lower note to the upper note inclusive, and a quality, describing the exact size in semitones. From…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-05-intervals.mp3" length="2211301" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Triads and Seventh Chords</title>
+      <description>Lesson 6: Triads and Seventh Chords When three or more notes sound together, they form a chord. The most basic chord, the triad, is built by stacking thirds: take a root note, add the note a third above it, and add another third above that. In C major, stacking thirds on C gives C, E, G — a C major…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-06-triads-and-seventh-chords.mp3" length="1897381" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Harmony, Progressions, and Cadences</title>
+      <description>Lesson 7: Harmony, Progressions, and Cadences Harmony is what happens when chords move in sequence, and a chord progression is a sequence of chords that supports a melody. Not all progressions are equal: some movements feel strong and final, others feel open or surprising, and composers choose…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-07-harmony-progressions-and-cadences.mp3" length="1882213" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Melody, Phrasing, and Putting Analysis Together</title>
+      <description>Lesson 8: Melody, Phrasing, and Putting Analysis Together Melody is a sequence of pitches in time, and good melodies are not random: they balance repetition and variety, stepwise movement and leaps, and tension and release. Most melodies move mainly by step (seconds), with occasional skips (thirds…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:music-theory:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-music-theory/lesson-08-melody-phrasing-and-putting-analysis-together.mp3" length="2179237" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

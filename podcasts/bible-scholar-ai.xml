@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Bible Scholar AI — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/bible-scholar-ai.xml" rel="self" type="application/rss+xml" />
+    <description>Understand the Bible deeply: its storyline, key themes, and proven study methods.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-bible-scholar-ai/bible-scholar-ai.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Bible Scholar AI — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-00-syllabus.mp3" length="1813669" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>How to Study the Bible: Approaches, Tools, and a Reader's Mindset</title>
+      <description>Understand the Bible deeply: its storyline, key themes, and proven study methods. Lesson 1: How to Study the Bible: Approaches, Tools, and a Reader's Mindset This lesson teaches you the basic toolkit of careful Bible study: three moves every reader should learn, the simple tools that support them…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-01-how-to-study-the-bible-approaches-tools-and-a-reader-s-minds.mp3" length="2107237" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Old Testament Overview: The Storyline from Genesis to Malachi</title>
+      <description>Lesson 2: Old Testament Overview: The Storyline from Genesis to Malachi This lesson teaches the big storyline of the Old Testament, the thirty-nine books Christians group as the first part of the Bible. Rather than memorizing book names, you will learn the narrative arc the text itself presents, so…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-02-old-testament-overview-the-storyline-from-genesis-to-malachi.mp3" length="2177317" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>New Testament Overview: Gospels, Letters, and Revelation</title>
+      <description>Lesson 3: New Testament Overview: Gospels, Letters, and Revelation This lesson teaches the storyline and structure of the New Testament's twenty-seven books, continuing the story the Old Testament left waiting. You will learn what each major section contributes and how the parts fit together. The…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-03-new-testament-overview-gospels-letters-and-revelation.mp3" length="2106469" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Big Themes: Covenant, Grace, and the Kingdom</title>
+      <description>Lesson 4: Big Themes: Covenant, Grace, and the Kingdom This lesson teaches three themes that run through the entire Bible and hold its diverse books together: covenant, grace, and the kingdom. Grasping these gives you a framework for connecting passages that otherwise seem unrelated. Covenant is…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-04-big-themes-covenant-grace-and-the-kingdom.mp3" length="2028325" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jesus: His Life, Parables, and Core Teachings</title>
+      <description>Lesson 5: Jesus: His Life, Parables, and Core Teachings This lesson teaches the central figure of the New Testament: Jesus of Nazareth as the Gospels present him — his life's shape, his distinctive teaching method in parables, and the core content of his message. Christians hold Jesus to be both…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-05-jesus-his-life-parables-and-core-teachings.mp3" length="2193637" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Reading by Genre: Narrative, Poetry, Letters, Prophecy</title>
+      <description>Lesson 6: Reading by Genre: Narrative, Poetry, Letters, Prophecy This lesson teaches you to adjust your reading strategy to the Bible's literary genres. A psalm is not making the same kind of claim as a Pauline argument, and much confusion comes from reading every text with the same expectations.…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-06-reading-by-genre-narrative-poetry-letters-prophecy.mp3" length="2311525" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Prayer and Devotional Practice</title>
+      <description>Lesson 7: Prayer and Devotional Practice This lesson teaches how to build a sustainable practice of prayer and devotion — the personal side of Bible study. Information without transformation leaves the reader unchanged, and Christians have historically treated prayer and Scripture reading as two…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-07-prayer-and-devotional-practice.mp3" length="2041957" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Your Study Plan: Reading Schedules and Next Steps</title>
+      <description>Lesson 8: Your Study Plan: Reading Schedules and Next Steps This lesson teaches you to convert everything you have learned into a durable personal plan: choosing a reading schedule you can finish, setting up your study environment, and deciding what comes after this course. A course ends; a…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:bible-scholar-ai:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-bible-scholar-ai/lesson-08-your-study-plan-reading-schedules-and-next-steps.mp3" length="2106277" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

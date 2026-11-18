@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Piano — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/piano.xml" rel="self" type="application/rss+xml" />
+    <description>From finding middle C to playing hands-together pieces with expression.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-piano/piano.png" />
+    <lastBuildDate>Mon, 02 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Syllabus</title>
+      <description>Course syllabus for Piano — Planet Leads Academy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-00</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-00-syllabus.mp3" length="1108837" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Posture, Hand Position, and Finding Your Way Around the Keyboard</title>
+      <description>From finding middle C to playing hands-together pieces with expression. Lesson 1: Posture, Hand Position, and Finding Your Way Around the Keyboard This lesson teaches you how to sit at the piano and shape your hands so that playing feels natural from the very first note. Everything later in this…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-01-posture-hand-position-and-finding-your-way-around-the-keyboa.mp3" length="2015653" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Reading Music - The Staff, Treble Clef, Note Values and Rhythm</title>
+      <description>Lesson 2: Reading Music - The Staff, Treble Clef, Note Values and Rhythm This lesson teaches you to read written music: the staff, the treble clef, and how note values and rhythm work. Reading is simply a map - it tells you which key to press, how long to hold it, and when. You do not need to…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-02-reading-music-the-staff-treble-clef-note-values-and-rhythm.mp3" length="1993381" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Five-Finger Patterns and Your First Scale (C Major)</title>
+      <description>Lesson 3: Five-Finger Patterns and Your First Scale (C Major) This lesson teaches you five-finger patterns and your first full scale, C major. A scale is the raw material of melody: most tunes you will ever play are built from the notes of a scale, and practicing scales trains your fingers to move…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-03-five-finger-patterns-and-your-first-scale-c-major.mp3" length="2327461" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Chords - Building Triads, the C-G-Am-F Progression</title>
+      <description>Lesson 4: Chords - Building Triads, the C-G-Am-F Progression This lesson teaches you chords: how to build them and how to play the most useful progression in popular music, C-G-Am-F. A chord is three or more notes played at the same time, and chords are the harmony underneath melodies - the sound…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-04-chords-building-triads-the-c-g-am-f-progression.mp3" length="2098021" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Left Hand - Bass Notes and Simple Accompaniment Patterns</title>
+      <description>Lesson 5: The Left Hand - Bass Notes and Simple Accompaniment Patterns This lesson gives your left hand a real job: playing bass notes and simple accompaniment patterns. Until now your right hand has done most of the work, but in real music the left hand provides the foundation - the low notes that…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-05-the-left-hand-bass-notes-and-simple-accompaniment-patterns.mp3" length="2071333" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hands Together - Your First Complete Piece, Step by Step</title>
+      <description>Lesson 6: Hands Together - Your First Complete Piece, Step by Step This lesson teaches you the method for playing hands together - the skill that turns two separate parts into real music. Your first complete piece is a simple sixteen-measure study in C major: the right hand plays a gentle melody…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-06-hands-together-your-first-complete-piece-step-by-step.mp3" length="1885093" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dynamics, Tempo, and Playing with Expression</title>
+      <description>Lesson 7: Dynamics, Tempo, and Playing with Expression This lesson teaches you to play musically: dynamics (loud and soft), tempo markings, and phrasing - the difference between pressing the right keys and making music. Two players can play identical notes and sound completely different, and the…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-07-dynamics-tempo-and-playing-with-expression.mp3" length="2065765" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Your Practice System + Next Pieces to Learn</title>
+      <description>Lesson 8: Your Practice System + Next Pieces to Learn This lesson builds your permanent practice system and maps out where to go next. Talent is mostly a myth in music: what separates players who improve from players who stall is not ability but the quality and consistency of their practice. This…</description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:piano:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-piano/lesson-08-your-practice-system-next-pieces-to-learn.mp3" length="1993381" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

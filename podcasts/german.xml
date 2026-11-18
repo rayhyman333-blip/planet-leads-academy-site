@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>German — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/german.xml" rel="self" type="application/rss+xml" />
+    <description>Lesson 1: Sounds, Alphabet, and Greetings</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-german/german.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sounds, Alphabet, and Greetings</title>
+      <description>Lesson 1: Sounds, Alphabet, and Greetings German spelling is highly regular, and learning its sounds early prevents years of guessing. The alphabet has 26 letters plus three umlauted vowels — ä, ö, ü — and the letter ß, called Eszett or scharfes S, which sounds like a sharp s and never appears at…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-01-sounds-alphabet-and-greetings.mp3" length="3126757" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sein, Haben, and Describing Yourself</title>
+      <description>Lesson 2: Sein, Haben, and Describing Yourself Sein (to be) and haben (to have) are the two most frequent verbs, and both are irregular. Present tense of sein: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. Present tense of haben: ich habe, du hast, er/sie/es hat, wir haben, ihr…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-02-sein-haben-and-describing-yourself.mp3" length="3150373" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Regular Verbs and Word Order</title>
+      <description>Lesson 3: Regular Verbs and Word Order Regular German verbs in the present tense add endings to the stem, which is the infinitive minus -en (or -n after a vowel). For machen (to make/do), the stem is mach-: ich mache, du machst, er/sie/es macht, wir machen, ihr macht, sie/Sie machen. The pattern…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-03-regular-verbs-and-word-order.mp3" length="2747941" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Cases — Nominative, Accusative, and Dative</title>
+      <description>Lesson 4: Cases — Nominative, Accusative, and Dative German cases show the role of a noun in a sentence, and articles and adjective endings change accordingly. There are four cases; this lesson covers the first three, which carry most everyday conversation. The nominative is the subject: Der Mann…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-04-cases-nominative-accusative-and-dative.mp3" length="2712421" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Past Tense — Perfekt</title>
+      <description>Lesson 5: The Past Tense — Perfekt Spoken German tells the past mainly with the Perfekt, formed with the present of haben or sein plus the past participle, which usually goes to the end of the clause: Ich habe gelernt (I learned / I have learned), Wir sind gegangen (We went / We have gone). The…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-05-the-past-tense-perfekt.mp3" length="2786341" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Food, Ordering, and Quantities</title>
+      <description>Lesson 6: Food, Ordering, and Quantities German food vocabulary and restaurant phrases are immediately usable. Key words: das Brot (bread), der Käse (cheese), die Butter (butter), das Fleisch (meat), der Fisch (fish), das Gemüse (vegetables), das Obst (fruit), die Kartoffeln (potatoes), der Reis…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-06-food-ordering-and-quantities.mp3" length="2613541" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Future, Modal Verbs, and the Weather</title>
+      <description>Lesson 7: Future, Modal Verbs, and the Weather German expresses the future in two main ways. The most common in speech is the present tense with a future time expression: Morgen fahre ich nach München (Tomorrow I travel to Munich), Nächste Woche besuche ich meine Eltern (Next week I visit my…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-07-future-modal-verbs-and-the-weather.mp3" length="3100261" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Travel, Directions, and Everyday Conversation</title>
+      <description>Lesson 8: Travel, Directions, and Everyday Conversation Travel German brings together cases, separable verbs, and polite forms. Transport words: der Zug (train), der Bus (bus), die U-Bahn (underground), die Straßenbahn (tram), das Taxi, das Flugzeug (plane), der Bahnhof (station), der Flughafen…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:german:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-german/lesson-08-travel-directions-and-everyday-conversation.mp3" length="2434597" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

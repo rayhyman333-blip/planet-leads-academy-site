@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Arabic — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/arabic.xml" rel="self" type="application/rss+xml" />
+    <description>Arabic words are given in Arabic script with a transliteration; transliteration is approximate, and listening to native speakers is the best check. This course teaches Modern Standard Arabic, the written and formal spoken variety used across the Arab world, while noting where everyday speech differs.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-arabic/arabic.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Arabic Alphabet and Sounds</title>
+      <description>Arabic words are given in Arabic script with a transliteration; transliteration is approximate, and listening to native speakers is the best check. This course teaches Modern Standard Arabic, the written and formal spoken variety used across the Arab world, while noting where everyday speech…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-01-the-arabic-alphabet-and-sounds.mp3" length="2093413" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Greetings, Introductions, and Politeness</title>
+      <description>Lesson 2: Greetings, Introductions, and Politeness Arabic greetings carry warmth and a religious and cultural history, and using them correctly is one of the fastest ways to be welcomed in conversation. The most universal greeting is السلام عليكم (as-salaamu ʿalaykum, "Peace be upon you"). The…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-02-greetings-introductions-and-politeness.mp3" length="2206693" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nouns, Gender, and the Definite Article</title>
+      <description>Lesson 3: Nouns, Gender, and the Definite Article Arabic nouns have two genders, masculine and feminine, and gender affects adjectives, pronouns, and verb forms. There is no neuter gender. Most nouns are masculine by default; feminine nouns are often marked by the ending ة (taa marbuuṭa)…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-03-nouns-gender-and-the-definite-article.mp3" length="2192101" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pronouns and Present-Tense Verbs</title>
+      <description>Lesson 4: Pronouns and Present-Tense Verbs Arabic pronouns distinguish gender and number, including the dual. The independent pronouns are: أنا (anaa, "I"), أنتَ (anta, "you", to a man), أنتِ (anti, "you", to a woman), هو (huwa, "he"), هي (hiya, "she"), نحن (naḥnu, "we"), أنتم (antum, "you"…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-04-pronouns-and-present-tense-verbs.mp3" length="2368357" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Adjectives, Possession, and Description</title>
+      <description>Lesson 5: Adjectives, Possession, and Description Arabic adjectives agree with the noun they describe in gender, number, and definiteness, and they normally follow the noun, the opposite order from English. A new book is كتاب جديد (kitaab jadiid, literally "book new"), a new school is مدرسة جديدة…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-05-adjectives-possession-and-description.mp3" length="2063653" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Past Tense and the Verb System</title>
+      <description>Lesson 6: Past Tense and the Verb System Arabic past tense is formed with suffixes attached to the past stem, and it is in some ways more regular than the present tense, because there are no prefixes to learn — only suffixes. For the verb كتب (kataba, "he wrote"), the past conjugation is: أنا كتبتُ…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-06-past-tense-and-the-verb-system.mp3" length="1980517" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Numbers, Time, and Days</title>
+      <description>Lesson 7: Numbers, Time, and Days Arabic numbers 1 to 10 are: واحد (waaḥid, 1), اثنان (ithnaan, 2), ثلاثة (thalaatha, 3), أربعة (arbaʿa, 4), خمسة (khamsa, 5), ستة (sitta, 6), سبعة (sabʿa, 7), ثمانية (thamaaniya, 8), تسعة (tisʿa, 9), عشرة (ʿashara, 10). Tens are: عشرون (ʿishruun, 20), ثلاثون…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-07-numbers-time-and-days.mp3" length="1976293" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Everyday Conversation — Shops, Travel, and Putting It Together</title>
+      <description>Lesson 8: Everyday Conversation — Shops, Travel, and Putting It Together This final lesson combines everything so far into the conversations a visitor actually has: buying something, asking directions, ordering food, and handling problems politely. The grammar is not new; the skill is choosing the…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:arabic:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-arabic/lesson-08-everyday-conversation-shops-travel-and-putting-it-together.mp3" length="2199397" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

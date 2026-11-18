@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Japanese — Planet Leads Academy</title>
+    <link>https://rayhyman333-blip.github.io/planet-leads-academy-site/</link>
+    <atom:link href="https://rayhyman333-blip.github.io/planet-leads-academy-site/podcasts/japanese.xml" rel="self" type="application/rss+xml" />
+    <description>You will learn vocabulary and grammar step by step, with examples and practice. No fluency promise is made: progress depends on regular study and practice outside these lessons.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ramel Hyman / Planet Leads</copyright>
+    <itunes:author>Ramel Hyman</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/planet-leads-academy-japanese/japanese.png" />
+    <lastBuildDate>Mon, 23 Feb 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sounds, Greetings, and Being Polite</title>
+      <description>You will learn vocabulary and grammar step by step, with examples and practice. No fluency promise is made: progress depends on regular study and practice outside these lessons. Lesson 1: Sounds, Greetings, and Being Polite Japanese has three writing systems, but this lesson starts with sound and…</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-01</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-01-sounds-greetings-and-being-polite.mp3" length="2058661" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hiragana Basics, Numbers 1–10, and Counting People and Things</title>
+      <description>Lesson 2: Hiragana Basics, Numbers 1–10, and Counting People and Things Hiragana has 46 basic characters. Each character stands for a syllable, not a single letter. This lesson introduces the first two rows and the vowel row, and it teaches numbers 1 to 10, because numbers appear in prices, times…</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-02</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-02-hiragana-basics-numbers-1-10-and-counting-people-and-things.mp3" length="2662501" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Particles Wa, Ga, No, and Simple Sentences</title>
+      <description>Lesson 3: Particles Wa, Ga, No, and Simple Sentences Particles are small words that follow a noun and show its job in the sentence. They are one of the most important parts of Japanese grammar, and they are also one of the places where learners make the most mistakes, because English shows the same…</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-03</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-03-particles-wa-ga-no-and-simple-sentences.mp3" length="2185381" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Verbs in the Present, Masu Form, and Daily Routine</title>
+      <description>Lesson 4: Verbs in the Present, Masu Form, and Daily Routine Japanese verbs in polite speech usually end in masu in the present tense. This form is safe for most everyday situations, and it is the form used throughout this course until casual forms are introduced. The present masu form also covers…</description>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-04</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-04-verbs-in-the-present-masu-form-and-daily-routine.mp3" length="2186341" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Time, Days, Places, and Particles Ni, De, E, Kara, Made</title>
+      <description>Lesson 5: Time, Days, Places, and Particles Ni, De, E, Kara, Made Time and place need precise particles, and this lesson gives you the set you will use every day. Ni marks a specific point in time and a destination or location for existence. De marks the place where an action happens. E marks…</description>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-05</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-05-time-days-places-and-particles-ni-de-e-kara-made.mp3" length="2892901" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Past Tense, Adjectives I and Na, and Describing Things</title>
+      <description>Lesson 6: Past Tense, Adjectives I and Na, and Describing Things Past tense lets you talk about what happened, and adjectives let you describe what you saw. Together they make your Japanese much more useful, because you can now report, compare, and explain, not only state present facts. In polite…</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-06</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-06-past-tense-adjectives-i-and-na-and-describing-things.mp3" length="2348581" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Wanting, Liking, Ability, and Making Requests</title>
+      <description>Lesson 7: Wanting, Liking, Ability, and Making Requests This lesson adds the language of preference and polite requests, which you need for shopping, eating out, travelling, and asking for help. Japanese expresses wanting, liking, and ability with patterns that look different from English, so learn…</description>
+      <pubDate>Mon, 16 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-07</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-07-wanting-liking-ability-and-making-requests.mp3" length="2507557" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Te Form, Connecting Actions, and Putting It All Together</title>
+      <description>Lesson 8: Te Form, Connecting Actions, and Putting It All Together The te form connects verbs, and it is the key to speaking in longer, natural sentences. Once you can use te, you can say what you did and then what you did next, ask someone to do something, and describe a sequence without stopping…</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:planetleads-academy:japanese:lesson-08</guid>
+      <enclosure url="https://archive.org/download/planet-leads-academy-japanese/lesson-08-te-form-connecting-actions-and-putting-it-all-together.mp3" length="2274169" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
