@@ -24,6 +24,82 @@ function render(){
   }
   document.getElementById('list').innerHTML = html || '<p>No courses added yet. Add a course you bought on Gumroad above.</p>';
 }
+// ---- Server progress sync (added at go-live) ----
+const API_BASE = 'https://planet-leads-academy-backend.onrender.com'; // same value as login.html
+const NAME_TO_SLUG = {
+  'Digital Marketing': 'digital-marketing',
+  'Project Management': 'project-management',
+  'Data Analytics': 'data-analytics',
+  'Leadership Mastery': 'leadership-mastery',
+  'Entrepreneurship': 'entrepreneurship',
+  'Mobile Development': 'mobile-development',
+  'Web Development': 'web-development',
+  'JavaScript': 'javascript',
+  'Python': 'python',              // catalog name: Python Programming
+  'Music Theory': 'music-theory',
+  'Guitar': 'guitar',
+  'Piano': 'piano',
+  'Russian': 'russian',
+  'Arabic': 'arabic',
+  'Italian': 'italian',
+  'German': 'german',
+  'Portuguese': 'portuguese',
+  'Korean': 'korean',
+  'Japanese': 'japanese',
+  'Mandarin': 'mandarin',
+  'French': 'french',
+  'Spanish': 'spanish',            // catalog name: Conversational Spanish
+  'Torah Scholar AI': 'torah-scholar-ai',
+  'Bible Scholar AI': 'bible-scholar-ai',
+  'Islamic Scholar AI': 'islamic-scholar-ai'
+};
+
+function serverToken() {
+  try { return localStorage.getItem('pla_server_token'); } catch (e) { return null; }
+}
+
+// Pull server progress into the local model. Returns true when the
+// server answered; false means "browser-only mode" (no token, expired
+// token, or network failure) and localStorage remains the record.
+async function syncFromServer() {
+  const token = serverToken();
+  if (!token) return false;
+  let res;
+  try {
+    res = await fetch(API_BASE + '/api/progress',
+                      { headers: { Authorization: 'Bearer ' + token } });
+  } catch (e) { return false; }
+  if (!res.ok) return false;
+  const body = await res.json();
+  const progress = body.progress || {};
+  for (const name of Object.keys(NAME_TO_SLUG)) {
+    const entry = progress[NAME_TO_SLUG[name]];
+    if (!entry) continue; // not enrolled on the server: keep local state
+    const lessons = [];
+    for (let i = 1; i <= 8; i++) lessons.push(!!(entry.lessons && entry.lessons[String(i)]));
+    data.courses[name] = lessons; // server is the record for enrolled courses
+  }
+  save(); render();
+  return true;
+}
+
+// Push one lesson toggle to the server. The server accepts progress only
+// on a VERIFIED enrollment: a 403 means this course is browser-only for
+// now (no purchase code entered yet) — the local tick still saves to
+// localStorage, and the page must not claim it is server-verified.
+async function pushLessonToServer(name, idx, checked) {
+  const token = serverToken();
+  const slug = NAME_TO_SLUG[name];
+  if (!token || !slug) return;
+  try {
+    await fetch(API_BASE + '/api/progress', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json',
+                 Authorization: 'Bearer ' + token },
+      body: JSON.stringify({ course_slug: slug, lesson: idx + 1, complete: checked })
+    });
+  } catch (e) { /* offline: localStorage already saved the tick */ }
+}
 function addCourse(){
   const c=document.getElementById('courseSel').value;
   if(!data.courses[c]) data.courses[c]=[false,false,false,false,false,false,false,false];
@@ -31,9 +107,11 @@ function addCourse(){
 }
 function toggleLesson(c,i,checked){
   data.courses[c][i]=checked; save(); render();
+  pushLessonToServer(c, i, checked);
 }
 document.getElementById('studentName').addEventListener('change', e=>{ data.name=e.target.value; save(); });
 render();
+syncFromServer();
 </script><section><h2>Student Login — server system (coming soon)</h2><p><a href="login.html">Student Login</a> is not live yet: when it is, you will register, sign in, submit a Gumroad purchase for owner verification, track 8 lessons per course across devices, and get a server certificate only at 8 of 8 lessons on a verified enrollment. This page (browser-only progress) remains available for progress saved in this browser only — it does not verify a Gumroad purchase automatically.</p></section><link rel="stylesheet" href="chat-widget.css">
 <section data-pla-chat>
 <h2>Chat with Cynthia — on this site</h2>
