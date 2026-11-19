@@ -1,7 +1,7 @@
 /* Cynthia verified-answer lookup v2 — JS port of verified-lookup-v2/router.py.
    NOT a neural model. NOT taught. NOT live AI.
    Deterministic lookup only: question -> BM25 + Dice overlap against the
-   33 verified facts in verified-store.json -> either the canonical answer
+   68 verified facts in verified-store.json -> either the canonical answer
    returned VERBATIM (labelled "verified answer"), a clarification question,
    or an abstention. It never generates, paraphrases, or invents an answer.
    Thresholds frozen on training questions only, never on held-out:

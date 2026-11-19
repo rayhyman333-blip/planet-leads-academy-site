@@ -1,6 +1,6 @@
 /* Planet Leads Academy — Cynthia chat widget, VERIFIED-ANSWER MODE.
    No backend, no AI generation, no server storage in this mode.
-   Verified-answer lookup (verified-lookup.js + verified-store.json, 33
+   Verified-answer lookup (verified-lookup.js + verified-store.json, 68
    verified facts) runs FIRST, after safety escalations, and returns its
    canonical answer VERBATIM, labelled "Verified answer". Unknowns fall
    back to the guided catalog answers from knowledge.json (the verified

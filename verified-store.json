@@ -1,7 +1,7 @@
 {
   "name": "Cynthia verified answer store",
   "warning": "Lookup, not a neural model. Not taught. Answers are returned verbatim; a new fact is added only when the owner approves it, by editing this file — never by retraining.",
-  "entry_count": 33,
+  "entry_count": 68,
   "entries": [
     {
       "id": "fact-01",
@@ -180,7 +180,7 @@
         "lead",
         "planet"
       ],
-      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace. Singles are $49 to $59.99, the Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription. Refunds are 14-day full, owner-reviewed. It is not accredited, and it does not award degrees. Certificates are only at 8 of 8 lessons on a verified enrollment.",
+      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace. Singles are $49.99 or $59.99, the Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription. Refunds are 14-day full, owner-reviewed. It is not accredited, and it does not award degrees. Certificates are only at 8 of 8 lessons on a verified enrollment.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -262,7 +262,7 @@
         "much",
         "planet"
       ],
-      "canonical_answer": "Planet Leads Academy singles are $49 to $59.99. The Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription.",
+      "canonical_answer": "Planet Leads Academy singles are $49.99 or $59.99. The Professional Bundle with 3 courses is $129.99, and the Enterprise Bundle with 10 courses is $299.99. Pay in full upfront on Gumroad, no pay-later, no installments, no subscription.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -275,7 +275,7 @@
         "lead",
         "planet"
       ],
-      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $167.00 and $560.99.",
+      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $169.97 and $569.90.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -335,7 +335,7 @@
         "many",
         "planet"
       ],
-      "canonical_answer": "Planet Leads Academy has 35 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49 to $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree.",
+      "canonical_answer": "Planet Leads Academy has 35 courses, each with 8 written lessons, studied at your own pace. Audio editions of the courses are sold on Gumroad. Video editions are built for all 35 courses. Singles are $49.99 or $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -389,7 +389,7 @@
         "many",
         "professional"
       ],
-      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. Singly, those courses cost $167.00.",
+      "canonical_answer": "The Professional Bundle has 3 courses and costs $129.99. Singly, those courses cost $169.97.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -402,7 +402,7 @@
         "enterprise",
         "many"
       ],
-      "canonical_answer": "The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $560.99.",
+      "canonical_answer": "The Enterprise Bundle has 10 courses and costs $299.99. Singly, those courses cost $569.90.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
     },
@@ -450,9 +450,616 @@
         "planet",
         "summarize"
       ],
-      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace, text-based, no video. Singles are $49 to $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree. Certificates are only at 8 of 8 lessons on a verified enrollment.",
+      "canonical_answer": "Planet Leads Academy is an online school with 35 courses, each with 8 written lessons, studied at your own pace. Audio editions of the courses are sold on Gumroad. Video editions are built for all 35 courses. Singles are $49.99 or $59.99, bundles are $129.99 for 3 courses and $299.99 for 10 courses, pay in full upfront, 14-day full refund, not accredited, not a degree. Certificates are only at 8 of 8 lessons on a verified enrollment.",
       "source": "verified_lookup",
       "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-34",
+      "question": "Where is Cynthia available?",
+      "keywords": [
+        "cynthia",
+        "available",
+        "get",
+        "buy",
+        "mcp",
+        "registry",
+        "gumroad",
+        "poe"
+      ],
+      "canonical_answer": "Cynthia is a live MCP server at cynthia-mcp-server.onrender.com, listed on the Official MCP Registry as io.github.rayhyman333-blip/cynthia, version 1.0.1. The Cynthia MCP Server package is sold on Gumroad for $59, and you can talk to Cynthia free on Poe as CynthiaByPlanetLeads.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-35",
+      "question": "Can other teachers teach at Planet Leads Academy?",
+      "keywords": [
+        "academy",
+        "apply",
+        "instructor",
+        "join",
+        "lead",
+        "other",
+        "planet",
+        "teach",
+        "teacher"
+      ],
+      "canonical_answer": "Yes. Planet Leads Academy accepts outside teachers and trainers as instructors — no accreditation required. To join, an instructor needs a curriculum plan and real lessons. Instructors keep 90% of their own course sales (the Academy keeps 10%), teach with Planet Leads' tools, and apply by emailing planetleads1@gmail.com.",
+      "source": "verified_lookup",
+      "source_file": "corpus/cynthia-qa.jsonl"
+    },
+    {
+      "id": "fact-36",
+      "question": "How do I apply to teach at Planet Leads Academy?",
+      "keywords": [
+        "academy",
+        "appli",
+        "apply",
+        "email",
+        "instructor",
+        "join",
+        "lead",
+        "planet",
+        "teach",
+        "teacher"
+      ],
+      "canonical_answer": "There is no application form yet — applying is an email. Send your application to planetleads1@gmail.com with the subject line \"Instructor Application — [Your Course Topic]\". Include: your name, your contact email, your subject or topic, your background, a proposed course title, your full curriculum plan (every module and lesson), one complete sample lesson, your format (text, audio, video, or a mix), a proposed price, and the original-work statement confirming the curriculum and lessons are your own original work.",
+      "source": "verified_lookup",
+      "source_file": "academy-instructors/APPLICATION.md"
+    },
+    {
+      "id": "fact-37",
+      "question": "How much do instructors keep from their course sales at Planet Leads Academy?",
+      "keywords": [
+        "academy",
+        "instructor",
+        "keep",
+        "lead",
+        "much",
+        "percent",
+        "planet",
+        "sale",
+        "share",
+        "split"
+      ],
+      "canonical_answer": "Instructors keep 90% of their own course sales (the Academy keeps 10%).",
+      "source": "verified_lookup",
+      "source_file": "academy-instructors/TERMS.md"
+    },
+    {
+      "id": "fact-38",
+      "question": "Do I need accreditation to teach at Planet Leads Academy?",
+      "keywords": [
+        "accredit",
+        "academy",
+        "credential",
+        "degree",
+        "instructor",
+        "lead",
+        "need",
+        "planet",
+        "qualif",
+        "teach"
+      ],
+      "canonical_answer": "No. Accreditation is not required, and accredited and non-accredited teachers are both welcome. The Academy does not gate on credentials — it gates on substance: a real curriculum plan with modules and lessons mapped out, and one complete sample lesson. Experience from a classroom, a workshop, a job site, a studio, or years of doing the work itself all count.",
+      "source": "verified_lookup",
+      "source_file": "academy-instructors/JOIN-PAGE.md"
+    },
+    {
+      "id": "fact-39",
+      "question": "What does Planet Leads Academy provide to its instructors?",
+      "keywords": [
+        "academy",
+        "get",
+        "instructor",
+        "lead",
+        "planet",
+        "provid",
+        "support",
+        "teach",
+        "tool"
+      ],
+      "canonical_answer": "The Academy provides course packaging in its content shell (a syllabus, the Academy's 8-lesson course structure, and course materials built from the instructor's curriculum and lessons), listings across the Academy's live sales channels (Gumroad and Payhip today), student access through the Academy's student backend (access by code on completed purchase, and certificates at 8/8 lessons), and Cynthia support — Cynthia answers student and buyer questions from verified course facts.",
+      "source": "verified_lookup",
+      "source_file": "academy-instructors/TERMS.md"
+    },
+    {
+      "id": "fact-40",
+      "question": "How do refunds and payouts work for instructor courses at Planet Leads Academy?",
+      "keywords": [
+        "academy",
+        "instructor",
+        "lead",
+        "paid",
+        "payout",
+        "planet",
+        "refund",
+        "sale"
+      ],
+      "canonical_answer": "The Academy's refund policy — 14-day full refund, owner-reviewed — applies to instructor courses exactly as it applies to the Academy's own courses, and a refunded sale pays out nothing: that sale's revenue is reversed and neither side keeps a share of it. If a refund or chargeback lands after a payout, that sale's instructor share is offset against the instructor's future payouts; the Academy never claws money back from an instructor's account directly. Payouts are monthly: the Academy sends a monthly statement showing sales, refunds, net revenue, and the 90/10 split, and pays the instructor's 90% share — 90% of the gross sale price of each sale, meaning 90% of what the student paid, before channel fees; channel fees are the Academy's cost and are never deducted from the instructor's share — on the 15th of the following month, once the underlying channel payouts have cleared and the payable balance has reached $25; smaller balances roll forward, and the $25 threshold is waived on a final payout after an instructor exits. Payment is by PayPal by default, by Wise for non-US instructors, or by US bank transfer on request, and a tax form must be on file before the first payout: Form W-9 for US instructors, Form W-8BEN for non-US instructors.",
+      "source": "verified_lookup",
+      "source_file": "academy-instructors/TERMS.md"
+    },
+    {
+      "id": "fact-41",
+      "question": "What websites does Planet Leads build for businesses?",
+      "keywords": [
+        "build",
+        "business",
+        "lead",
+        "planet",
+        "site",
+        "web",
+        "website"
+      ],
+      "canonical_answer": "Planet Leads builds three kinds of sites for businesses: Starter Sites (up to 5 pages: Home, About, Services or Menu, Gallery, and Contact), Business Sites with an online store (up to 8 pages, with a store set up and products loaded), and Redesigns — full rebuilds that replace an old site rather than patch it, with the client's owned content carried over.",
+      "source": "verified_lookup",
+      "source_file": "wix-builds-pipeline/APPROVAL-PACK.md"
+    },
+    {
+      "id": "fact-42",
+      "question": "How much does a Starter Site from Planet Leads cost?",
+      "keywords": [
+        "build",
+        "cost",
+        "lead",
+        "much",
+        "planet",
+        "price",
+        "site",
+        "starter",
+        "website"
+      ],
+      "canonical_answer": "A Starter Site costs $199, one time. It includes up to 5 pages (Home, About, Services or Menu, Gallery, Contact) built from the client's own photos, text, logo, and price lists, a contact form, click-to-call, a map and directions block, hours, links to existing booking, ordering, and social pages, a mobile-friendly layout, a handover walkthrough with a short written update guide, and 2 rounds of small-change revisions within 14 days of handover.",
+      "source": "verified_lookup",
+      "source_file": "wix-builds-pipeline/APPROVAL-PACK.md"
+    },
+    {
+      "id": "fact-43",
+      "question": "How much does a Business Site with a store from Planet Leads cost?",
+      "keywords": [
+        "build",
+        "business",
+        "cost",
+        "lead",
+        "much",
+        "planet",
+        "price",
+        "site",
+        "store",
+        "website"
+      ],
+      "canonical_answer": "A Business Site + Store costs $399, one time. It includes everything in the Starter Site, plus up to 8 pages and a store setup with up to 20 products loaded (titles, prices, photos, variants) from the client's list, checkout configured on the client's own store account, store policy pages, digital-product setup if wanted, and a handover walkthrough with a written sheet covering orders, products, and updates.",
+      "source": "verified_lookup",
+      "source_file": "wix-builds-pipeline/APPROVAL-PACK.md"
+    },
+    {
+      "id": "fact-44",
+      "question": "How much does a website redesign from Planet Leads cost?",
+      "keywords": [
+        "build",
+        "cost",
+        "lead",
+        "much",
+        "planet",
+        "price",
+        "rebuild",
+        "redesign",
+        "site",
+        "website"
+      ],
+      "canonical_answer": "A Redesign costs $249 for an information site and $449 for a store site, one time. It includes everything in the matching tier (Starter-level at $249, Store-level at $449), content carried over from the old site and reorganized into the new layout, old links and pages mapped to the new site where the platform allows, and a before/after summary at handover. The old site is not patched — it is replaced.",
+      "source": "verified_lookup",
+      "source_file": "wix-builds-pipeline/APPROVAL-PACK.md"
+    },
+    {
+      "id": "fact-45",
+      "question": "What add-ons can I buy with a Planet Leads website build?",
+      "keywords": [
+        "addon",
+        "build",
+        "buy",
+        "extra",
+        "lead",
+        "planet",
+        "price",
+        "site",
+        "website"
+      ],
+      "canonical_answer": "The add-ons are: an extra page beyond the package count for $25 per page, extra products loaded beyond the included 20 for $5 per product, booking or appointment setup on the client's account for $49, a menu or price-list update after handover for $25 per update, and a monthly care plan (small updates, checks, and one content change a month) for $49/month.",
+      "source": "verified_lookup",
+      "source_file": "wix-builds-pipeline/APPROVAL-PACK.md"
+    },
+    {
+      "id": "fact-46",
+      "question": "Who builds my Planet Leads website, and how do I hire Planet Leads?",
+      "keywords": [
+        "build",
+        "hire",
+        "lead",
+        "planet",
+        "shell",
+        "site",
+        "website",
+        "who"
+      ],
+      "canonical_answer": "Planet Leads builds the whole site for you — builds run on the Planet Leads Site Shell, and you never have to touch a builder: Planet Leads handles the whole setup, your pages, photos, and content, and walks you through the finished site at handover. To hire Planet Leads, email planetleads1@gmail.com. The build price is paid to Planet Leads one time; your own platform plan (Wix Studio or Shopify, when the build is on a platform) is paid by you directly to the platform at its normal price — Planet Leads never marks it up.",
+      "source": "verified_lookup",
+      "source_file": "wix-builds-pipeline/APPROVAL-PACK.md"
+    },
+    {
+      "id": "fact-47",
+      "question": "What is the Borough Bystander?",
+      "keywords": [
+        "borough",
+        "bystander",
+        "news",
+        "newspaper",
+        "nyc",
+        "paper",
+        "what"
+      ],
+      "canonical_answer": "The Borough Bystander is an AI-powered daily newspaper from Planet Leads covering all five New York City boroughs — Manhattan, Brooklyn, Queens, The Bronx, and Staten Island — with politics, sports, culture, and the people who keep New York moving. Its news wire carries live NYC headlines, refreshed every 15 minutes, with article pages, comments, and premium stories.",
+      "source": "verified_lookup",
+      "source_file": "borough-bystander-planet-leads/README.md"
+    },
+    {
+      "id": "fact-48",
+      "question": "What does Cynthia do at the Borough Bystander?",
+      "keywords": [
+        "ask",
+        "borough",
+        "brief",
+        "bystander",
+        "cynthia",
+        "editor",
+        "news",
+        "summary",
+        "tldr"
+      ],
+      "canonical_answer": "Cynthia is the Borough Bystander's AI editor. She writes the article TL;DR summaries (\"Cynthia's TL;DR\"), the front-page brief, and the Great News curation — an automated feed of everyday New Yorkers doing good — and she is the chatbot behind \"Ask Cynthia\" for subscribers.",
+      "source": "verified_lookup",
+      "source_file": "borough-bystander-planet-leads/README.md"
+    },
+    {
+      "id": "fact-49",
+      "question": "How much does a Borough Bystander subscription cost, and what does it unlock?",
+      "keywords": [
+        "borough",
+        "bystander",
+        "cost",
+        "much",
+        "price",
+        "subscrib",
+        "subscription",
+        "unlock"
+      ],
+      "canonical_answer": "A Borough Bystander subscription costs $0.50 per month. Subscribers get access to Ask Cynthia, the site's subscriber chatbot, along with the paper's premium stories. Checkout runs through Stripe, and the site account is needed to check out.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-50",
+      "question": "What advertising can I buy in the Borough Bystander, and what does it cost?",
+      "keywords": [
+        "advertis",
+        "borough",
+        "buy",
+        "bystander",
+        "cost",
+        "price",
+        "rate",
+        "sponsor"
+      ],
+      "canonical_answer": "The Borough Bystander sells three advertising options, all priced per month: a Classified ad for $25/month, a Borough Banner for $75/month, and a Front Page Sponsor slot for $199/month.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-51",
+      "question": "What is the Borough Bystander's Cartoon of the Day?",
+      "keywords": [
+        "borough",
+        "bystander",
+        "cartoon",
+        "day",
+        "daily"
+      ],
+      "canonical_answer": "The Borough Bystander publishes a daily cartoon — the Cartoon of the Day — as one of the paper's regular daily features, alongside its daily posting of stories.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-52",
+      "question": "What data products does Planet Leads sell?",
+      "keywords": [
+        "buy",
+        "data",
+        "dataset",
+        "gumroad",
+        "lead",
+        "planet",
+        "product",
+        "sell"
+      ],
+      "canonical_answer": "Planet Leads sells seven New York City data products on Gumroad, each for $19, as a dataset plus an analysis report: Planet Leads Price Trends (permalink csbsbp), NYC Restaurant Inspections (dxzqdc), NYC 311 Service Requests (iwcugm), NYC Motor Vehicle Collisions (fufftx), NYC Street Tree Census (ltdrfm), NYC Film Permits (lenwmj), and NYC Building Job Filings (havyar). Ask about any one of them by name to hear what is inside before you buy.",
+      "source": "verified_lookup",
+      "source_file": "planet-leads-price-trends/README.md"
+    },
+    {
+      "id": "fact-53",
+      "question": "What is inside the Planet Leads Price Trends dataset?",
+      "keywords": [
+        "catalog",
+        "data",
+        "dataset",
+        "inside",
+        "lead",
+        "planet",
+        "price",
+        "shopper",
+        "trend"
+      ],
+      "canonical_answer": "Planet Leads Price Trends is a dated snapshot of real list prices across the Planet Leads Shopper catalog, snapshot date 2026-11-11: 428 products, one row each, across 16 categories, with prices from $4.00 to $149.00. Its columns are product_id, title, category, price_usd, date_snapshot, source, and vendor, and it comes with a 3-page PDF report. It is Planet Leads' own analysis of its own store's public list prices — it has no cost, profit, or customer data. On Gumroad it is permalink csbsbp and costs $19.",
+      "source": "verified_lookup",
+      "source_file": "planet-leads-price-trends/README.md"
+    },
+    {
+      "id": "fact-54",
+      "question": "What is inside the NYC Restaurant Inspections dataset?",
+      "keywords": [
+        "data",
+        "dataset",
+        "grade",
+        "health",
+        "inspection",
+        "inside",
+        "nyc",
+        "restaurant",
+        "score"
+      ],
+      "canonical_answer": "The NYC Restaurant Inspections dataset holds the 50,000 most recent inspections from the DOHMH New York City Restaurant Inspection Results dataset (43nn-pn8j) on NYC Open Data, covering 2026-05-21 to 2026-11-09, drawn from a full source of 294,700 records. Fields include the restaurant ID (camis), trade name (dba), borough, address, cuisine, inspection date, action taken, violation code and description, critical flag, inspection score, and letter grade. On Gumroad it is permalink dxzqdc and costs $19.",
+      "source": "verified_lookup",
+      "source_file": "planet-leads-public-data/restaurant-inspections/data_dictionary.md"
+    },
+    {
+      "id": "fact-55",
+      "question": "What is inside the NYC 311 Service Requests dataset?",
+      "keywords": [
+        "311",
+        "complaint",
+        "data",
+        "dataset",
+        "inside",
+        "nyc",
+        "request",
+        "service"
+      ],
+      "canonical_answer": "The NYC 311 Service Requests dataset holds the 50,000 most recent requests from the 311 Service Requests from 2020 to Present dataset (erm2-nwe9) on NYC Open Data, covering 2026-11-05 to 2026-11-10 — about five days of citywide volume — drawn from a full source of 23,100,861 requests. Fields include the request's unique key, created and closed dates, the agency handling it, complaint type and descriptor, location type, incident ZIP and address, borough, status, community board, and latitude and longitude where given. On Gumroad it is permalink iwcugm and costs $19.",
+      "source": "verified_lookup",
+      "source_file": "planet-leads-public-data/311-service-requests/data_dictionary.md"
+    },
+    {
+      "id": "fact-56",
+      "question": "What is inside the NYC Motor Vehicle Collisions dataset?",
+      "keywords": [
+        "collision",
+        "crash",
+        "data",
+        "dataset",
+        "inside",
+        "motor",
+        "nyc",
+        "vehicle"
+      ],
+      "canonical_answer": "The NYC Motor Vehicle Collisions dataset holds the 50,000 most recent crashes from the Motor Vehicle Collisions — Crashes dataset (h9gi-nx95) published by the NYPD on NYC Open Data, covering 2026-04-10 to 2026-11-08, drawn from a full source of 2,304,731 crashes. Fields include crash date and time, borough, ZIP code, street and cross street, the numbers of persons, pedestrians, cyclists, and motorists injured or killed, contributing factors, and vehicle types. No personal data is included. On Gumroad it is permalink fufftx and costs $19.",
+      "source": "verified_lookup",
+      "source_file": "planet-leads-public-data/motor-vehicle-collisions/data_dictionary.md"
+    },
+    {
+      "id": "fact-57",
+      "question": "What is inside the NYC Street Tree Census dataset?",
+      "keywords": [
+        "census",
+        "data",
+        "dataset",
+        "inside",
+        "nyc",
+        "street",
+        "tree"
+      ],
+      "canonical_answer": "The NYC Street Tree Census dataset holds 50,000 tree records with 25 columns from the 2015 Street Tree Census — Tree Data dataset (uvpi-gqnh), published by NYC Parks & Recreation on NYC Open Data, drawn from a full source of 683,788 records. The records are dated 2016-08-19 to 2016-10-05 and cover mainly Queens and Brooklyn, the last areas surveyed. Fields include species (Latin and common names — 128 species in the file), status (Alive, Dead, or Stump), health, trunk diameter, stewardship, the street address nearest the tree, borough, and latitude and longitude. On Gumroad it is permalink ltdrfm and costs $19.",
+      "source": "verified_lookup",
+      "source_file": "data-products/nyc-street-tree-census/README.md"
+    },
+    {
+      "id": "fact-58",
+      "question": "What is inside the NYC Film Permits dataset?",
+      "keywords": [
+        "data",
+        "dataset",
+        "film",
+        "inside",
+        "movie",
+        "nyc",
+        "permit",
+        "television"
+      ],
+      "canonical_answer": "The NYC Film Permits dataset is the complete Film Permits dataset (tg4x-b46p) published by the Mayor's Office of Media and Entertainment on NYC Open Data: all 20,409 records, with 14 columns, and dated records spanning 2023-01-01 to 2026-08-20. Fields include the permit type (for example Shooting Permit), start and end date and time, the street segments where parking was held, borough, community boards, police precincts, production category (Television, Film, Commercial, Theater, and more), subcategory, and ZIP codes covered. On Gumroad it is permalink lenwmj and costs $19.",
+      "source": "verified_lookup",
+      "source_file": "data-products/nyc-film-permits/README.md"
+    },
+    {
+      "id": "fact-59",
+      "question": "What is inside the NYC Building Job Filings dataset?",
+      "keywords": [
+        "building",
+        "construction",
+        "data",
+        "dataset",
+        "dob",
+        "filing",
+        "inside",
+        "job",
+        "nyc"
+      ],
+      "canonical_answer": "The NYC Building Job Filings dataset holds the 50,000 most recent filings from the DOB NOW: Build — Job Application Filings dataset (w9ak-ipjd), published by the NYC Department of Buildings on NYC Open Data, covering filing dates 2026-07-31 to 2026-11-17, drawn from a full source of 984,491 records, with 44 columns. Fields include the job filing number, filing status, property address and borough, block and lot, job type, stated initial cost, dwelling units before and after, and key dates. Personal data was deliberately excluded: applicant and owner names, the applicant's street address, and license numbers are not in the file — what remains is property, filing, work-type, and business-name data. On Gumroad it is permalink havyar and costs $19.",
+      "source": "verified_lookup",
+      "source_file": "data-products/nyc-dob-job-filings/README.md"
+    },
+    {
+      "id": "fact-60",
+      "question": "What is Planet Leads Shopper?",
+      "keywords": [
+        "lead",
+        "planet",
+        "shopper",
+        "store",
+        "what"
+      ],
+      "canonical_answer": "Planet Leads Shopper is Planet Leads' online variety store, created by Ramel Hyman and running on Shopify (store domain ud02pp-gy.myshopify.com). It sells everyday essentials across many categories — wellness, ergonomics, home gadgets, travel organizers, clothing, and more. The store is run day to day by Cynthia, Planet Leads' autonomous store worker.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-61",
+      "question": "What does Planet Leads Shopper sell?",
+      "keywords": [
+        "categor",
+        "cloth",
+        "gadget",
+        "lead",
+        "planet",
+        "product",
+        "sell",
+        "shopper",
+        "well"
+      ],
+      "canonical_answer": "Planet Leads Shopper sells a rotating variety of everyday items. Its approved categories started with wellness, ergonomics, home gadgets, and travel organizers, and were expanded in October 2026 to clothing, accessories, and all other categories its approved suppliers carry. Some things are never sold: supplements, medicines, trademarked brands, regulated items, and medical devices are blocked.",
+      "source": "verified_lookup",
+      "source_file": "planet-leads-shopper/human-caps.md"
+    },
+    {
+      "id": "fact-62",
+      "question": "How many products does Planet Leads Shopper have?",
+      "keywords": [
+        "catalog",
+        "count",
+        "how",
+        "lead",
+        "many",
+        "planet",
+        "product",
+        "shopper"
+      ],
+      "canonical_answer": "As of a live catalog scan in November 2026, Planet Leads Shopper had 525 products selling, with 477 unique product titles. The catalog changes over time because Cynthia keeps rotating products in and out.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-63",
+      "question": "Who runs Planet Leads Shopper?",
+      "keywords": [
+        "cynthia",
+        "lead",
+        "planet",
+        "run",
+        "shopper",
+        "who",
+        "worker"
+      ],
+      "canonical_answer": "Cynthia is the autonomous worker who runs Planet Leads Shopper day to day. Every 30 minutes she scans CJdropshipping for new product candidates — 10 candidates per run — checks each one, and rotates verified products into the store. The store's owner, Ramel Hyman, named her Cynthia.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-64",
+      "question": "How are products chosen for Planet Leads Shopper?",
+      "keywords": [
+        "choos",
+        "cynthia",
+        "gate",
+        "lead",
+        "planet",
+        "product",
+        "qualiti",
+        "select",
+        "shopper",
+        "verifi"
+      ],
+      "canonical_answer": "A product only reaches Planet Leads Shopper after verification. Cynthia checks the supplier's real cost, shipping, stock, delivery times, and photos for every candidate — estimates are never used. A product must clear the store's quality gates: a score of at least 80, at least $15 profit per sale, and a weight of 1000 grams or less. Clothing has extra gates: multiple sizes and variants, each variant verified individually, and no trademarked names or logos.",
+      "source": "verified_lookup",
+      "source_file": "planet-leads-shopper/multi-product-store-plan.md"
+    },
+    {
+      "id": "fact-65",
+      "question": "Where do Planet Leads Shopper's products come from?",
+      "keywords": [
+        "cj",
+        "collect",
+        "dropship",
+        "lead",
+        "planet",
+        "product",
+        "shopper",
+        "sourc",
+        "supplier",
+        "where"
+      ],
+      "canonical_answer": "Planet Leads Shopper's products come from approved suppliers only, all on free plans. CJdropshipping is the source Cynthia's rotation scans — her current rotation is CJ-only — and DSers/AliExpress is the other approved supplier. The store also carries products from Shopify Collective suppliers: as of a recount on November 16, 2026, 152 suppliers had been invited and 5 were connected (Wildflower Cases, Therapy Notebooks, Christian Books Today, High Five Books, and Brave Books). No other supplier may be added unless the owner approves it first.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-66",
+      "question": "Does Planet Leads Shopper ship worldwide?",
+      "keywords": [
+        "countri",
+        "intern",
+        "lead",
+        "planet",
+        "ship",
+        "shopper",
+        "world",
+        "worldwid"
+      ],
+      "canonical_answer": "Yes. Planet Leads Shopper's Shopify Markets were verified on November 18, 2026: the US market is Active, and the Rest of World market is Active covering 236 regions, with local currencies and shipping configured. One caveat: sales tax is not currently being collected in the Rest of World market.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-67",
+      "question": "How do orders and fulfillment work at Planet Leads Shopper?",
+      "keywords": [
+        "cynthia",
+        "fulfil",
+        "how",
+        "lead",
+        "order",
+        "payment",
+        "planet",
+        "shopper"
+      ],
+      "canonical_answer": "Orders at Planet Leads Shopper are paid through Shopify checkout, and Cynthia watches incoming orders. Her live-order placement is currently switched off, so supplier orders are not auto-placed with real money today. The store's funding rule is that a customer's own payment funds that order's fulfillment — the owner never pays for an order out of pocket.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
+    },
+    {
+      "id": "fact-68",
+      "question": "How do I contact Planet Leads Shopper?",
+      "keywords": [
+        "contact",
+        "creat",
+        "email",
+        "lead",
+        "planet",
+        "shopper",
+        "who"
+      ],
+      "canonical_answer": "Planet Leads Shopper is a Planet Leads 🚀 store, created by Ramel Hyman. The store's admin contact email is rayhyman333@gmail.com.",
+      "source": "verified_lookup",
+      "source_file": "MEMORY.md"
     }
   ]
 }

@@ -144,6 +144,24 @@ fallback wording) stays the same.
 6. Update cynthia.html wording from "Guided mode" to "Live mode" ONLY after
    step 5 passes, then deploy that wording and fresh-fetch it.
 
+## 7b. Fact store sync (standing step — do not skip)
+
+The widget's `verified-store.json` in this repo is a copy of the Cynthia
+MCP server's `verified_store.json` (repo `cynthia-mcp-server`). Whenever
+facts are added or changed on the server, the SAME work wave must:
+
+1. Copy the server's current `entries` into this repo's
+   `verified-store.json` and set `entry_count` to match (keep this file's
+   own `name`/`warning` header — the server file's header describes the
+   server, not the site).
+2. Update every fact-count mention in the widget copy
+   (`chat-widget.js`, `verified-lookup.js`, `cynthia-demo.html`).
+3. Sanity-test the router locally against the new store (canonical
+   questions return their facts verbatim; out-of-scope questions still
+   abstain) before pushing.
+
+Last synced: 2026-11-18 — 68 facts (server head `385f810f`).
+
 ## 8. What is NOT live yet (do not claim)
 - No chat box on the live site yet (guided box is local only in this task).
 - No live AI chat, no server chat endpoint, no server chat history.

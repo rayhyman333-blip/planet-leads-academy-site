@@ -44,12 +44,12 @@ What Cynthia will not do:
 </pre></section><section><h2>Demo 4 — cynthia_status</h2><p><strong>Request:</strong></p><pre class="demo"><span class="req">Request →</span> {&quot;jsonrpc&quot;:&quot;2.0&quot;,&quot;id&quot;:6,&quot;method&quot;:&quot;tools/call&quot;,&quot;params&quot;:{&quot;name&quot;:&quot;cynthia_status&quot;,&quot;arguments&quot;:{}}}</pre><p><strong>Response (verbatim):</strong></p><pre class="demo">{
   &quot;server&quot;: &quot;cynthia&quot;,
   &quot;version&quot;: &quot;1.0.0&quot;,
-  &quot;verified_facts&quot;: 33,
+  &quot;verified_facts&quot;: 68,
   &quot;lookup&quot;: &quot;verified-lookup-v2 (BM25 + Dice, MIN_SCORE 5.5, MIN_MARGIN 0.10)&quot;,
   &quot;health&quot;: &quot;ok&quot;,
   &quot;model_calls&quot;: 0,
   &quot;api_keys_required&quot;: false
-}</pre></section><section><h2>Why verified answers</h2><p>Cynthia's knowledge is a store of 33 owner-approved verified facts. Every answer comes verbatim from one of those facts — never from a model guessing. On held-out test questions she scored 0 inventions: she either gives the verified answer or honestly abstains. A new fact is added only when the owner approves it.</p><p><strong>Server instructions (from the live initialize response):</strong></p><pre class="demo">Cynthia, by Planet Leads — created by Ramel Hyman. Ask her questions with ask_cynthia; she answers only from her verified facts and honestly abstains when she does not know. Use cynthia_capabilities to learn what she can do, and cynthia_status to check the server.</pre></section><section><h2>Connect to Cynthia</h2><p>Add the public endpoint to any MCP client as a remote (Streamable HTTP) server:</p><pre class="demo">{
+}</pre></section><section><h2>Why verified answers</h2><p>Cynthia's knowledge is a store of 68 owner-approved verified facts. Every answer comes verbatim from one of those facts — never from a model guessing. On held-out test questions she scored 0 inventions: she either gives the verified answer or honestly abstains. A new fact is added only when the owner approves it.</p><p><strong>Server instructions (from the live initialize response):</strong></p><pre class="demo">Cynthia, by Planet Leads — created by Ramel Hyman. Ask her questions with ask_cynthia; she answers only from her verified facts and honestly abstains when she does not know. Use cynthia_capabilities to learn what she can do, and cynthia_status to check the server.</pre></section><section><h2>Connect to Cynthia</h2><p>Add the public endpoint to any MCP client as a remote (Streamable HTTP) server:</p><pre class="demo">{
   &quot;mcpServers&quot;: {
     &quot;cynthia&quot;: {
       &quot;url&quot;: &quot;https://cynthia-mcp-server.onrender.com/mcp&quot;
