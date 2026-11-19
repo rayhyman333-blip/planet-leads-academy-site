@@ -125,3 +125,12 @@ section[data-pla-chat]{border-top:4px solid var(--gold)}
   .steps{grid-template-columns:1fr}
   .hero h1{font-size:30px}
 }
+
+/* ---- wishlist (A6) ---- */
+.wishlist-btn{background:#fff;color:var(--navy);border:2px solid var(--gold);width:auto;
+  min-height:48px;padding:8px 14px;font-size:16px;border-radius:8px;cursor:pointer}
+.wishlist-btn[aria-pressed="true"]{background:var(--gold);color:#12203a}
+.wishlist-only{display:inline-flex;align-items:center;gap:6px;margin:8px 0 8px 12px;font-size:17px}
+.wishlist-only input{width:auto;min-height:24px}
+.wishlist-list{list-style:none;padding:0}
+.wishlist-list li{margin:0 0 12px}

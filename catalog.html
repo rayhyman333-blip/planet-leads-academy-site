@@ -12,5 +12,5 @@ const s=document.getElementById('courseSearch'), f=document.getElementById('catF
 function filter(){ const q=(s.value||'').toLowerCase(), c=f.value;
   document.querySelectorAll('.course').forEach(d=>{ const txt=d.textContent; d.style.display = (txt.toLowerCase().includes(q) && (!c || txt.includes(c))) ? '' : 'none'; }); }
 s.addEventListener('input', filter); f.addEventListener('change', filter);
-</script><script src="https://gumroad.com/js/gumroad.js"></script>
+</script><script src="https://gumroad.com/js/gumroad.js"></script><script src="wishlist.js"></script>
 </body></html>
