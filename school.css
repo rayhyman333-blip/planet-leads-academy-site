@@ -134,3 +134,10 @@ section[data-pla-chat]{border-top:4px solid var(--gold)}
 .wishlist-only input{width:auto;min-height:24px}
 .wishlist-list{list-style:none;padding:0}
 .wishlist-list li{margin:0 0 12px}
+
+/* ---- accessibility (A7) ---- */
+.skip-link{position:absolute;left:12px;top:-60px;z-index:50;background:var(--navy);color:#fff;
+  padding:10px 16px;border-radius:8px;transition:top .15s ease}
+.skip-link:focus{top:12px;color:#fff}
+:focus-visible{outline:3px solid var(--gold-dark);outline-offset:2px}
+section[tabindex="-1"]:focus{outline:none}
