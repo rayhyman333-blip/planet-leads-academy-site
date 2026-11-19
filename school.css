@@ -146,3 +146,55 @@ section[tabindex="-1"]:focus{outline:none}
 .announcement{border:1px solid var(--line);border-radius:12px;background:#fff;padding:14px 16px;margin:0 0 14px}
 .announcement h3{margin:0 0 4px}
 .ann-meta{color:var(--muted);font-size:15px;margin:0 0 8px}
+
+/* ---- course player (A2) ---- */
+.lesson-list,.lesson-nav ol{list-style:none;padding:0;margin:12px 0}
+.lesson-list li,.lesson-nav li{margin:0 0 8px}
+.lesson-list a,.lesson-nav a{display:inline-block;min-height:32px;padding:4px 0}
+.lesson-nav{border:1px solid var(--line);border-radius:12px;background:#fff;padding:12px 16px;margin:0 0 18px}
+.lesson-nav a[aria-current="page"]{font-weight:700;color:var(--navy)}
+.lesson-nav a.is-done,.lesson-list a.is-done{color:var(--muted)}
+.badge-free{background:var(--gold);color:var(--navy-dark);font-weight:700;font-size:14px;
+  border-radius:999px;padding:2px 10px;white-space:nowrap}
+.done-mark{color:var(--gold-dark);font-weight:700;font-size:15px;white-space:nowrap}
+.player-continue-link{display:inline-block;background:var(--navy);color:#fff;font-weight:700;
+  min-height:48px;padding:12px 20px;border-radius:10px;text-decoration:none}
+.player-note{color:var(--muted);font-size:16px}
+.crumbs{color:var(--muted);font-size:16px}
+.prev-next{display:flex;justify-content:space-between;gap:16px;margin:20px 0;flex-wrap:wrap}
+.mark-btn{background:var(--gold);color:var(--navy-dark);font-weight:700;border:none;
+  min-height:48px;padding:10px 18px;font-size:17px;border-radius:8px;cursor:pointer}
+.mark-btn[aria-pressed="true"]{background:var(--navy);color:#fff}
+.progress-note{color:var(--muted);font-size:16px;min-height:24px}
+.gate-notice{border:2px solid var(--gold);border-radius:12px;background:#fff;padding:16px 18px;margin:0 0 18px}
+
+/* ---- course tutor (A4) ---- */
+.tutor-form{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+.tutor-form input{flex:1 1 320px;min-height:48px;font-size:17px;padding:8px 12px;
+  border:1px solid var(--line);border-radius:8px}
+.tutor-form button{background:var(--navy);color:#fff;font-weight:700;border:none;
+  min-height:48px;padding:10px 20px;font-size:17px;border-radius:8px;cursor:pointer}
+.tutor-answer{border:1px solid var(--line);border-radius:12px;background:#fff;padding:16px 18px;margin:14px 0}
+.tutor-answer blockquote{margin:0 0 10px;padding:0 0 0 14px;border-left:4px solid var(--gold)}
+.tutor-citation{color:var(--muted);font-size:16px;margin:0}
+.tutor-suggest{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+.tutor-suggest button{background:#fff;color:var(--navy);border:2px solid var(--gold);
+  min-height:44px;padding:6px 12px;font-size:15px;border-radius:8px;cursor:pointer}
+
+/* ---- reviews + questions (A8/A9) ---- */
+.review{border:1px solid var(--line);border-radius:12px;background:#fff;padding:14px 16px;margin:0 0 12px}
+.review-meta{color:var(--muted);font-size:15px;margin:0 0 6px}
+.reviews-summary{font-weight:700;color:var(--navy)}
+.qa-form label{display:block;margin:0 0 12px;font-weight:600}
+.qa-form input,.qa-form textarea,.qa-form select{display:block;width:100%;margin-top:4px;
+  min-height:48px;font-size:17px;padding:8px 12px;border:1px solid var(--line);border-radius:8px}
+.qa-form textarea{min-height:110px}
+.qa-form button{background:var(--navy);color:#fff;font-weight:700;border:none;
+  min-height:48px;padding:10px 20px;font-size:17px;border-radius:8px;cursor:pointer}
+.qa-note{color:var(--muted);font-size:16px}
+.qa-status{min-height:24px}
+
+/* ---- instructor profiles (A10) ---- */
+.profile-courses{list-style:none;padding:0}
+.profile-courses li{margin:0 0 10px}
+.profile-role{color:var(--gold-dark);font-weight:700}
