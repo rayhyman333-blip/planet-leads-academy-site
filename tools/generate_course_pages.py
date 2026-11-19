@@ -208,10 +208,26 @@ def build_page(slug, course, existing, instructor=None):
     out.append(
         f"<div data-reviews=\"{slug}\"><p>Loading reviews from the student system…</p></div>"
     )
+    out.append("<h3>Ask a question</h3>")
+    out.append(
+        "<p class=\"qa-note\">Your question goes to this course's "
+        "instructor. We don't promise an answer time — the instructor's "
+        "answer will come by email once they respond.</p>"
+    )
+    out.append(
+        f"<form class=\"qa-form\" data-question-form=\"{slug}\">"
+        "<label data-question-email-label>Email for the reply "
+        "<input type=\"email\" name=\"contact_email\" autocomplete=\"email\" required></label>"
+        "<label>Your question "
+        "<textarea name=\"question\" required maxlength=\"4000\"></textarea></label>"
+        "<button type=\"submit\">Send question</button>"
+        "<p class=\"qa-status\" data-question-status role=\"status\"></p>"
+        "</form>"
+    )
     out.append("</section>")
     # The renderers fill their mount points client-side; make sure their
     # scripts survive regeneration.
-    for script in ("announcements.js", "reviews.js"):
+    for script in ("announcements.js", "reviews.js", "questions.js"):
         if script not in tail_part:
             tail_part = tail_part.replace(
                 "</body>", f'<script src="../{script}"></script></body>', 1
