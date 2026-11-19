@@ -141,3 +141,8 @@ section[data-pla-chat]{border-top:4px solid var(--gold)}
 .skip-link:focus{top:12px;color:#fff}
 :focus-visible{outline:3px solid var(--gold-dark);outline-offset:2px}
 section[tabindex="-1"]:focus{outline:none}
+
+/* ---- announcements (A12) ---- */
+.announcement{border:1px solid var(--line);border-radius:12px;background:#fff;padding:14px 16px;margin:0 0 14px}
+.announcement h3{margin:0 0 4px}
+.ann-meta{color:var(--muted);font-size:15px;margin:0 0 8px}

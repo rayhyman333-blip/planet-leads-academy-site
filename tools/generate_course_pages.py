@@ -107,10 +107,13 @@ def grab(pattern, text, what, slug):
 
 def build_page(slug, course, existing):
     # Preserve everything outside the main <section>...</section>.
-    sec_start = existing.index("<section>")
+    # (Since the A7 accessibility pass the tag carries id="main".)
+    open_m = re.search(r"<section[^>]*>", existing)
+    sec_start = open_m.start()
     sec_end = existing.index("</section>") + len("</section>")
     head_part = existing[:sec_start]
     tail_part = existing[sec_end:]
+    section_tag = open_m.group(0)
 
     sec = existing[sec_start:sec_end]
     h2 = grab(r"<h2>.*?</h2>", sec, "h2", slug)
@@ -130,7 +133,7 @@ def build_page(slug, course, existing):
     lessons = course["lessons"]
     materials = course["materials"]
 
-    out = ["<section>"]
+    out = [section_tag]
     out.append(h2)
     out.append(meta)
     out.append(desc)
@@ -177,6 +180,12 @@ def build_page(slug, course, existing):
         f"<div data-course-announcements=\"{slug}\"><p>No updates yet for this course. Announcements from the Academy are posted on the <a href='../announcements.html'>Announcements page</a>.</p></div>"
     )
     out.append("</section>")
+    # The announcements renderer fills the Course updates mount point;
+    # make sure its script survives regeneration.
+    if "announcements.js" not in tail_part:
+        tail_part = tail_part.replace(
+            "</body>", '<script src="../announcements.js"></script></body>', 1
+        )
     return head_part + "".join(out) + tail_part
 
 
