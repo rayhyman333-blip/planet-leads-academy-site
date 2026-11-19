@@ -139,6 +139,10 @@ def build_page(slug, course, existing):
     out.append(desc)
     out.append(gumroad_p)
     out.append(links_p)
+    out.append(
+        f"<p><a href='../tutor.html?course={slug}'>Ask the course tutor →</a> "
+        "— answers quoted exactly from this course's own lessons.</p>"
+    )
 
     out.append("<h3>What You Will Learn</h3>")
     out.append("<ul>")

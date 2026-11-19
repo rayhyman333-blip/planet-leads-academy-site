@@ -198,3 +198,5 @@ section[tabindex="-1"]:focus{outline:none}
 .profile-courses{list-style:none;padding:0}
 .profile-courses li{margin:0 0 10px}
 .profile-role{color:var(--gold-dark);font-weight:700}
+.visually-hidden{position:absolute;width:1px;height:1px;margin:-1px;padding:0;
+  overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
