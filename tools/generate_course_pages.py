@@ -105,7 +105,20 @@ def grab(pattern, text, what, slug):
     return m.group(0)
 
 
-def build_page(slug, course, existing):
+def fetch_instructor_map():
+    """course slug -> instructor of record, from the student backend's
+    live attribution (GET /api/courses, parity A11). Fails loudly when
+    the backend cannot be reached — attribution is never guessed."""
+    import json
+    import urllib.request
+    url = "https://planet-leads-academy-backend.onrender.com/api/courses"
+    req = urllib.request.Request(url, headers={"User-Agent": "pla-site-generator"})
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        data = json.load(resp)
+    return {c["slug"]: c["instructor"] for c in data["courses"] if c.get("instructor")}
+
+
+def build_page(slug, course, existing, instructor=None):
     # Preserve everything outside the main <section>...</section>.
     # (Since the A7 accessibility pass the tag carries id="main".)
     open_m = re.search(r"<section[^>]*>", existing)
@@ -179,6 +192,14 @@ def build_page(slug, course, existing):
     out.append(lifetime_p)
     out.append("<h3>Instructor</h3>")
     out.append(instructor_p)
+    if instructor is not None:
+        out.append(
+            f"<p><strong>Instructor of record:</strong> "
+            f"<a href='../instructors/{instructor['slug']}.html'>"
+            f"{esc(instructor['display_name'])}</a> — "
+            f"<a href='../instructors/{instructor['slug']}.html'>view the "
+            "instructor profile</a>.</p>"
+        )
     out.append("<h3>Course updates</h3>")
     out.append(
         f"<div data-course-announcements=\"{slug}\"><p>No updates yet for this course. Announcements from the Academy are posted on the <a href='../announcements.html'>Announcements page</a>.</p></div>"
@@ -207,6 +228,8 @@ def main():
     if slugs != site_slugs:
         raise SystemExit(f"slug mismatch: mapping {slugs} vs site {site_slugs}")
 
+    instructor_map = fetch_instructor_map()
+
     done = 0
     for module_name, slug in sorted(MODULE_TO_SLUG.items()):
         course = load_course(os.path.join(args.shell, f"course_content_{module_name}.py"))
@@ -226,7 +249,8 @@ def main():
             )
         page_path = os.path.join(site, "courses", f"{slug}.html")
         existing = open(page_path, encoding="utf-8").read()
-        new = build_page(slug, course, existing)
+        new = build_page(slug, course, existing,
+                         instructor=instructor_map.get(slug))
         if new != existing:
             open(page_path, "w", encoding="utf-8").write(new)
             done += 1
