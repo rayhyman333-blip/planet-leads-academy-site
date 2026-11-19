@@ -204,13 +204,18 @@ def build_page(slug, course, existing, instructor=None):
     out.append(
         f"<div data-course-announcements=\"{slug}\"><p>No updates yet for this course. Announcements from the Academy are posted on the <a href='../announcements.html'>Announcements page</a>.</p></div>"
     )
+    out.append("<h3>Reviews</h3>")
+    out.append(
+        f"<div data-reviews=\"{slug}\"><p>Loading reviews from the student system…</p></div>"
+    )
     out.append("</section>")
-    # The announcements renderer fills the Course updates mount point;
-    # make sure its script survives regeneration.
-    if "announcements.js" not in tail_part:
-        tail_part = tail_part.replace(
-            "</body>", '<script src="../announcements.js"></script></body>', 1
-        )
+    # The renderers fill their mount points client-side; make sure their
+    # scripts survive regeneration.
+    for script in ("announcements.js", "reviews.js"):
+        if script not in tail_part:
+            tail_part = tail_part.replace(
+                "</body>", f'<script src="../{script}"></script></body>', 1
+            )
     return head_part + "".join(out) + tail_part
 
 
